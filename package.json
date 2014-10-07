@@ -1,0 +1,10 @@
+{
+    "name": "cssdb",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+        "async": "~0.9",
+        "chalk": "~0.5",
+        "octonode": "~0.6"
+    }
+}

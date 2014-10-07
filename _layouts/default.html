@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="{{site.data.meta.lang}}">
+<head>
+    
+    <!-- Page meta-information -->
+    <meta charset="utf-8"/>
+    <title>
+        {% if page.title %}{{page.title}} - {% endif %}
+        {{site.data.meta.name}}
+    </title>
+    <meta name="description" content="{{page.description | xml_escape}}"/>
+    {% if page.noindex %}
+        <meta name="robots" content="noindex"/>
+    {% endif %}
+
+    <!-- Site links -->
+    <!-- TODO generate sitemap
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" title="Sitemap"/>
+    -->
+    <link rel="canonical" href="http://{{site.data.meta.host}}{{page.url | replace: 'index.html', ''}}"/>
+
+    <!-- Styles -->
+    <meta name="viewport" content="width=device-width"/>
+    <!--[if gt IE 7]><!-->
+        <link rel="stylesheet" href="/asset/style/site.css"/>
+    <!--<![endif]-->
+    <!-- TODO create favicons
+    <link rel="icon" href="/favicon.png" type="image/png"/>
+    <link rel="shortcut icon" href="/favicon.ico"/>
+    -->
+
+    <!-- Tracking -->
+    <script>
+        if (document.location.host === '{{site.data.meta.host}}') {
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', '{{site.data.meta.ga}}', '{{site.data.meta.host}}');
+            ga('send', 'pageview');
+        }
+    </script>
+
+</head>
+<body>
+
+    <!--[if lte IE 8]>
+        <p style="background: #ffc; margin: 0; padding: 10px;">
+            <small>
+                You are using an outdated version of Internet Explorer.
+                Parts of this site, and others, may appear broken.<br/>
+                For a faster and safer browsing experience,
+                <a href="http://browsehappy.com/" target="_blank">Upgrade your browser</a>.
+            </small>
+        </p>
+    <![endif]-->
+
+    <div class="page">
+
+        <div class="header" role="banner">
+            <a href="/">{{site.data.meta.name}}</a>
+        </div>
+
+        {{content}}
+
+        <div class="footer" role="contentinfo">
+            <small>
+                Copyright &copy; {{site.time | date: '%Y'}},
+                <a href="{{site.data.meta.owner.url}}">{{site.data.meta.owner.name}}</a>.
+            </small>
+        </div>
+
+    </div>
+
+</body>
+</html>

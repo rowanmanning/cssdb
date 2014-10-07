@@ -1,0 +1,15 @@
+
+{% assign libraries = site.data.libraries | sort: 'score' | reverse %}
+
+<ol class="libraries">
+    {% for library in libraries %}
+        {% if library.isValid %}
+            <li>
+                <h3>
+                    <a href="{{library.url}}">{{library.name}}</a>
+                </h3>
+                <p>{{library.description}}</p>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ol>

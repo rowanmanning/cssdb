@@ -1,0 +1,18 @@
+
+# Jekyll config
+exclude:
+  - CNAME
+  - Makefile
+  - package.json
+  - README.md
+future: false
+lsi: false
+safe: true
+timezone: Europe/London
+
+# Front-matter defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
