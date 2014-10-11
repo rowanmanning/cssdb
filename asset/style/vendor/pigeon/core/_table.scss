@@ -1,0 +1,20 @@
+
+/* Tables */
+
+table {
+    max-width: 100%;
+}
+
+th {
+    text-align: left;
+    font-weight: bold;
+}
+
+th, td {
+    @include rem("padding", ceil($pigeon-type-size / 4) ceil($pigeon-type-size / 2));
+}
+
+caption {
+    font-weight: bold;
+    text-align: left;
+}

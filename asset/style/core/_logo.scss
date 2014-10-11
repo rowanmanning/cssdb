@@ -1,0 +1,31 @@
+
+/* Site logo */
+
+.logo {
+    @include rem(margin-bottom, $pigeon-type-line-height / 2);
+    font-family: "Vollkorn", serif;
+    @include rem(font-size, 60px);
+    @include rem(line-height, 60px);
+    color: $c-teal-dk;
+    font-weight: bold;
+
+    a {
+        display: block;
+    }
+
+    .db {
+        color: $c-teal;
+    }
+    .tld {
+        @include rem(font-size, 30px);
+    }
+
+    @media all and (max-width: $frag-break-tablet) {
+        @include rem(font-size, 50px);
+        @include rem(line-height, 50px);
+
+        .tld {
+            @include rem(font-size, 25px);
+        }
+    }
+}

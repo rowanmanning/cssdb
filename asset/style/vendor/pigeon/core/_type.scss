@@ -1,0 +1,120 @@
+
+/* Base typography */
+
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: $pigeon-type-face;
+    font-size: $pigeon-type-size;
+    line-height: $pigeon-type-line-height;
+    color: $pigeon-type-color;
+}
+
+
+/* Standard element typography */
+
+p, h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1,
+blockquote, caption, dl, figure, ol, ul, hr, pre, table {
+    @extend .space;
+    margin-top: 0;
+}
+
+
+/* Heading typography */
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1, caption, dt, th {
+    font-family: $pigeon-type-face-heading;
+    font-weight: $pigeon-type-weight-heading;
+}
+
+h6, .h6 {
+    @include rem(font-size, $pigeon-type-size-6);
+    @include rem(line-height, $pigeon-type-line-height-6);
+}
+
+h5, .h5 {
+    @include rem(font-size, $pigeon-type-size-5);
+    @include rem(line-height, $pigeon-type-line-height-5);
+}
+
+h4, .h4 {
+    @include rem(font-size, $pigeon-type-size-4);
+    @include rem(line-height, $pigeon-type-line-height-4);
+}
+
+h3, .h3 {
+    @include rem(font-size, $pigeon-type-size-3);
+    @include rem(line-height, $pigeon-type-line-height-3);
+}
+
+h2, .h2 {
+    @include rem(font-size, $pigeon-type-size-2);
+    @include rem(line-height, $pigeon-type-line-height-2);
+}
+
+h1, .h1 {
+    @include rem(font-size, $pigeon-type-size-1);
+    @include rem(line-height, $pigeon-type-line-height-1);
+}
+
+
+/* Links */
+
+a {
+    color: $pigeon-type-color-link;
+
+    &:visited {
+        color: $pigeon-type-color-link-visited;
+    }
+}
+
+
+/* Text-level semantics */
+
+cite {
+    font-style: italic;
+}
+
+figcaption, small, sub, sup {
+    @extend .smallprint;
+}
+
+mark {
+    background-color: $pigeon-type-color-highlight;
+}
+
+q {
+    font-style: italic;
+
+    &:before {
+        content: "“";
+    }
+
+    &:after {
+        content: "”";
+    }
+}
+
+
+/* Horizontal rules */
+
+hr {
+    height: 0;
+    border: none;
+    border-top: $pigeon-rule-height solid $pigeon-rule-color;
+    color: $pigeon-rule-color;
+}
+
+
+/* Selection */
+
+::-moz-selection {
+    background: $pigeon-selection-color-bg;
+    color: $pigeon-selection-color;
+}
+
+::selection {
+    background: $pigeon-selection-color-bg;
+    color: $pigeon-selection-color;
+}

@@ -1,0 +1,31 @@
+
+/*
+ * Indent object
+ * ------------
+ *
+ * Adds standard typographic indentation to an element.
+ *
+ * This object is extended by blockquote and list elements.
+ *
+ *     <p class="indent"> ... </p>
+ */
+.indent {
+    @include rem("padding-left", $pigeon-type-line-height);
+}
+.indent-more {
+    @include rem("padding-left", ($pigeon-type-line-height * 2));
+}
+
+@if $pigeon-rtl {
+    /* Right-to-left support */
+    [dir=rtl] {
+        .indent {
+            padding-left: 0;
+            @include rem("padding-right", $pigeon-type-line-height);
+        }
+        .indent-more {
+            padding-left: 0;
+            @include rem("padding-right", ($pigeon-type-line-height * 2));
+        }
+    }
+}

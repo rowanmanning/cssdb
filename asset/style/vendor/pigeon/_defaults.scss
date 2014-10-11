@@ -1,0 +1,49 @@
+
+// Type: color
+$pigeon-type-color: #333 !default;
+$pigeon-type-color-link: #4781ba !default;
+$pigeon-type-color-link-visited: #7f629c !default;
+$pigeon-type-color-highlight: #ff9 !default;
+$pigeon-selection-color: $pigeon-type-color !default;
+$pigeon-selection-color-bg: #ccc !default;
+
+// Type: sizes
+$pigeon-type-size: 17px !default;
+$pigeon-type-line-height: 25px !default;
+$pigeon-type-size-small: 14px !default;
+$pigeon-type-line-height-small: 25px !default;
+$pigeon-type-size-6: 19px !default;
+$pigeon-type-line-height-6: 27px !default;
+$pigeon-type-size-5: 22px !default;
+$pigeon-type-line-height-5: 30px !default;
+$pigeon-type-size-4: 26px !default;
+$pigeon-type-line-height-4: 34px !default;
+$pigeon-type-size-3: 31px !default;
+$pigeon-type-line-height-3: 39px !default;
+$pigeon-type-size-2: 37px !default;
+$pigeon-type-line-height-2: 45px !default;
+$pigeon-type-size-1: 44px !default;
+$pigeon-type-line-height-1: 52px !default;
+
+// Type: weights
+$pigeon-type-weight-heading: normal !default;
+
+// Type: faces
+$pigeon-type-face: Arial, Helvetica, sans-serif !default;
+$pigeon-type-face-heading: $pigeon-type-face !default;
+
+// Rules
+$pigeon-rule-height: 3px !default;
+$pigeon-rule-color: #d6d6d6 !default;
+
+// Table: color
+$pigeon-table-color: #d6d6d6 !default;
+$pigeon-table-color-border: darken($pigeon-table-color, 10%) !default;
+$pigeon-table-color-header: $pigeon-table-color !default;
+$pigeon-table-color-stripe: lighten($pigeon-table-color, 10%) !default;
+
+// Lineup: delimiter
+$pigeon-lineup-delimiter: ", " !default;
+
+// Right-to-left support
+$pigeon-rtl: true !default;

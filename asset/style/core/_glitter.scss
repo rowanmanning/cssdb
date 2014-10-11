@@ -1,0 +1,11 @@
+
+/* Root elements */
+
+html {
+    border-left: 10px solid $c-teal;
+
+    @media all and (max-width: $frag-break-mobile) {
+        border-left: 0;
+        border-top: 10px solid $c-teal;
+    }
+}

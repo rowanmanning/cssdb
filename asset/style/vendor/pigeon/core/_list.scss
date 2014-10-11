@@ -1,0 +1,21 @@
+
+/* Lists */
+
+ol, ul {
+    @extend .indent-more;
+
+    ol, ul {
+        @extend .indent;
+        margin-bottom: 0;
+    }
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    @extend .indent;
+    margin-left: 0;
+    @include rem("margin-bottom", ($pigeon-type-line-height / 2));
+}

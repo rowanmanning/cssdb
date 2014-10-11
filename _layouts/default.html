@@ -14,21 +14,31 @@
     {% endif %}
 
     <!-- Site links -->
-    <!-- TODO generate sitemap
-    <link rel="sitemap" type="application/xml" href="/sitemap.xml" title="Sitemap"/>
-    -->
     <link rel="canonical" href="http://{{site.data.meta.host}}{{page.url | replace: 'index.html', ''}}"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="CSSDB"/>
 
     <!-- Styles -->
     <meta name="viewport" content="width=device-width"/>
     <!--[if gt IE 7]><!-->
-        <link rel="stylesheet" href="/asset/style/site.css"/>
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Vollkorn:700"/>
+        <link rel="stylesheet" href="/asset/style/app.css"/>
     <!--<![endif]-->
-    <!-- TODO create favicons
     <link rel="icon" href="/favicon.png" type="image/png"/>
     <link rel="shortcut icon" href="/favicon.ico"/>
-    -->
 
+    <!-- iOS Info -->
+    <meta name="apple-mobile-web-app-title" content="CSSDB"/>
+    <link rel="apple-touch-icon" href="/logo/cssdb-57x57.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="/logo/cssdb-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="/logo/cssdb-114x114.png"/>
+
+    <!-- Windows 8 Pinned Site Info -->
+    <meta name="application-name" content="CSSDB"/>
+    <meta name="msapplication-tooltip" content="A curated collection of great CSS, Sass, LESS and Stylus libraries."/>
+    <meta name="msapplication-starturl" content="/"/>
+    <meta name="msapplication-TileColor" content="#59c3be"/>
+    <meta name="msapplication-TileImage" content="/logo/cssdb-144x144.png"/>
+   
     <!-- Tracking -->
     <script>
         if (document.location.host === '{{site.data.meta.host}}') {
@@ -55,22 +65,75 @@
         </p>
     <![endif]-->
 
-    <div class="page">
+    <div class="grid">
+        <div class="col dsk-4 mob-12 typearea sidebar">
 
-        <div class="header" role="banner">
-            <a href="/">{{site.data.meta.name}}</a>
+            <div role="banner" class="space-more">
+
+                {% if page.url == '/index.html': %}
+                    <h1 class="logo">
+                        <a href="/" class="shh-a">
+                            CSS<span class="db">DB</span><span class="tld">.co</span>
+                        </a>
+                    </h1>
+                {% else %}
+                    <div class="h1 logo">
+                        <a href="/" class="shh-a">
+                            CSS<span class="db">DB</span><span class="tld">.co</span>
+                        </a>
+                    </div>
+                {% endif %}
+
+                <p class="tagline">
+                    A curated collection of great CSS, Sass, LESS and Stylus libraries.
+                </p>
+
+            </div>
+
+            <ul role="navigation" class="stack navigation">
+                <li><a href="/">View popular libraries</a></li>
+                <li><a href="/submit/">Submit a library</a></li>
+            </ul>
+
+            <p>Follow <a href="http://twitter.com/theCSSDB">@theCSSDB</a> for updates</p>
+
         </div>
-
-        {{content}}
-
-        <div class="footer" role="contentinfo">
-            <small>
-                Copyright &copy; {{site.time | date: '%Y'}},
-                <a href="{{site.data.meta.owner.url}}">{{site.data.meta.owner.name}}</a>.
-            </small>
+        <div role="main" class="col dsk-8 mob-12 typearea main">
+            {{content}}
         </div>
-
     </div>
+    <div class="grid">
+        <div class="col dsk-4 mob-hide sidebar">&nbsp;</div>
+        <div role="contentinfo" class="col dsk-8 mob-12 footer">
+            
+            <p class="cramp space-above-more secondary">
+                <small>
+                    Copyright &copy; {{site.time | date: '%Y'}},
+                    <a href="{{site.data.meta.owner.url}}">{{site.data.meta.owner.name}}</a>.
+                    Source code
+                    <a href="https://github.com/rowanmanning/cssdb">available on GitHub</a>.
+                </small>
+            </p>
+
+            <p class="cramp secondary">
+                <small>
+                    Icons are part of the excellent
+                    <a href="http://somerandomdude.com/work/iconic/">Iconic set</a>,
+                    bundled by <a href="http://icomoon.io/">IcoMoon</a>.
+                </small>
+            </p>
+
+            <p class="space-above secondary">
+                <small>
+                    Big thanks to <a href="http://www.bevanstephens.com/">Bevan Stephens</a>
+                    for some helpful design advice.
+                </small>
+            </p>
+
+        </div>
+    </div>
+
+    <script src="/asset/script/app.js"></script>
 
 </body>
 </html>

@@ -1,0 +1,37 @@
+
+/* Root elements */
+
+html {
+    min-height: 100%;
+}
+body {
+    padding: 3% 0 3% 3%;
+    *padding-left: 0;
+
+    @media all and (max-width: $frag-break-mobile) {
+        padding-left: 0;
+    }
+}
+
+
+/* Max widths */
+
+.sidebar {
+    max-width: 360px;
+
+    @media all and (max-width: $frag-break-mobile) {
+        max-width: none;
+    }
+}
+.main, .footer {
+    max-width: 760px;
+}
+
+
+/* Above-desktop */
+
+@media all and (min-width: 1400px) {
+    .main, .footer {
+        margin-left: 10%;
+    }
+}

@@ -1,0 +1,61 @@
+
+/*
+ * Table object
+ * ------------
+ *
+ * Style a table.
+ *
+ *     <table class="table">
+ *         ...
+ *     </table>
+ */
+.table {
+    $border: 1px solid $pigeon-table-color-border;
+    border-bottom: $border;
+    border-right: $border;
+
+    th {
+        background-color: $pigeon-table-color-header;
+    }
+
+    td, th {
+        border-top: $border;
+        border-left: $border;
+    }
+
+    tfoot {
+        td, th {
+            border-top: 2px solid $pigeon-table-color-border;
+        }
+    }
+}
+
+/*
+ * Table object Wide modifier
+ * --------------------------
+ *
+ * Style a table to always stretch to the full width of
+ * the containing element. Dependent on the Table object.
+ *
+ *     <table class="table table-is-wide">
+ *         ...
+ *     </table>
+ */
+.table-is-wide {
+    width: 100%;
+}
+
+/*
+ * Table object Striped modifier
+ * -----------------------------
+ *
+ * Style a table with alternating row colours.
+ * Dependent on the Table object.
+ *
+ *     <table class="table table-is-striped">
+ *         ...
+ *     </table>
+ */
+.table-is-striped tbody tr:nth-child(even) td {
+    background-color: $pigeon-table-color-stripe;
+}

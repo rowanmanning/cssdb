@@ -1,0 +1,88 @@
+
+/*
+ * Library Object
+ * --------------
+ *
+ * Represents a library.
+ */
+.library {
+    overflow: hidden;
+}
+.library-content {
+    @include box-sizing();
+    width: 85%;
+    *width: 80%;
+    padding-left: $frag-gutter-width;
+    float: right;
+}
+.library-meta {
+    @include box-sizing();
+    width: 15%;
+    float: left;
+    @include rem(font-size, 18px);
+    @include rem(line-height, 22px);
+
+    li {
+        @include rem(margin-bottom, $pigeon-type-line-height / 4);
+    }
+}
+.library-meta-count {
+    display: block;
+    @include rem(padding, 8px 0);
+    background-color: #eee;
+    text-align: center;
+}
+.library-title {
+    @include rem(margin-bottom, $pigeon-type-line-height / 4);
+    @include rem(font-size, 28px);
+    @include rem(line-height, 26px);
+
+    a:hover {
+        color: $c-teal-dk;
+    }
+}
+.library-description {
+    margin-bottom: 0;
+    @include rem(font-size, 16px);
+    @include rem(line-height, 22px);
+}
+.library-url {
+    display: block;
+}
+
+@media all and (max-width: $frag-break-tablet) {
+    .library-meta {
+        @include rem(font-size, 16px);
+    }
+    .library-meta-count {
+        .icon {
+            display: block;
+            @include rem(margin-bottom, 5px);
+            @include rem(font-size, 18px);
+            @include rem(font-size, 22px);
+        }
+    }
+    .library-title-part {
+        display: block;
+    }
+    .library-title-owner {
+        @include rem(font-size, 22px);
+        @include rem(line-height, 22px);
+        color: #666;
+    }
+}
+
+@media all and (max-width: $frag-break-mobile) {
+    .library-meta {
+        @include rem(font-size, 14px);
+    }
+    .library-title-owner {
+        @include rem(font-size, 18px);
+        @include rem(line-height, 18px);
+    }
+    .library-url {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}

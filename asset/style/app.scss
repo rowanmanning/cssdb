@@ -1,0 +1,33 @@
+---
+noindex: true
+---
+
+// Site variables
+$c-teal: #59c3be;
+$c-teal-dk: #237d79;
+$c-pink: #ff99ff;
+$c-pink-dk: #ab46ab;
+
+// Vendor config
+$frag-max-width: 100%;
+$pigeon-type-color-link: $c-teal-dk;
+$pigeon-type-color-link-visited: darken($c-pink-dk, 10%);
+
+// Vendor styles
+@import "vendor/pigeon/pigeon";
+@import "vendor/frag/frag";
+
+// Utilities
+@import "util/compat";
+
+// Objects
+@import "object/icon";
+@import "object/library";
+@import "object/secondary";
+
+// Core site styles
+@import "core/layout";
+@import "core/glitter";
+@import "core/form";
+@import "core/navigation";
+@import "core/logo";

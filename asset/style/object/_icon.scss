@@ -1,0 +1,27 @@
+
+/* Icon font */
+@font-face {
+    font-family: "iconic";
+    src: url("../font/iconic.eot");
+    src: url("../font/iconic.eot?#iefix") format("embedded-opentype"),
+         url("../font/iconic.woff") format("woff"),
+         url("../font/iconic.ttf") format("truetype"),
+         url("../font/iconic.svg#iconic") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*
+ * Icons
+ * -----
+ */
+.icon {
+    line-height: 1;
+    font-family: "iconic";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+}

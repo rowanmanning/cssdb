@@ -1,0 +1,149 @@
+/*!
+ * Frag 2.1.1
+ *
+ * Frag is a fluid, responsive, simple grid system for
+ * CSS written in Sass. http://fragcss.com/
+ *
+ * Copyright 2013, Rowan Manning.
+ * Licensed under the MIT license.
+ *
+ */
+
+// Maximum widths
+$frag-max-width: 1200px !default;
+$frag-oldie-width: 980px !default;
+
+// Break-points
+$frag-break-tablet: 1000px !default;
+$frag-break-mobile: 640px !default;
+
+// Columns and gutters
+$frag-column-count: 12 !default;
+$frag-gutter-width: 20px !default;
+
+// Support old IE? (6–7)
+$frag-oldie-support: true !default;
+
+
+/* Util: Box for grid/column display */
+.frag-box {
+    display: block;
+    -webkit-box-sizing: border-box; // Safari 3.1–5.0
+    -moz-box-sizing: border-box; // Firefox 2+
+    box-sizing: border-box; // W3C standard
+}
+
+/* Util: Clearfix */
+.frag-clearfix {
+    *zoom: 1;
+    &:before, &:after {
+        display: table;
+        content: '';
+    }
+    &:after {
+        clear: both;
+    }
+}
+
+// Util: Define column classes
+@mixin frag-cols ($prefix, $oldie: false) {
+
+    // Output column widths
+    @for $i from 1 through $frag-column-count {
+        .#{$prefix}#{$i} {
+            width: (100% / $frag-column-count) * $i;
+
+            // Old-IE column styles
+            @if $oldie {
+                *width: (floor($frag-oldie-width / $frag-column-count) * $i) - ($frag-gutter-width * 2);
+            }
+        }
+    }
+    
+    // Column hiding
+    .#{$prefix}hide {
+        display: none;
+    }
+    .#{$prefix}show {
+        display: block;
+    }
+
+    // Column clearing
+    .#{$prefix}clear {
+        clear: left;
+    }
+    [dir=rtl] .#{$prefix}clear {
+        clear: right;
+    }
+    .#{$prefix}unclear {
+        clear: none;
+    }
+
+    // Old-IE column clearing
+    @if $oldie {
+        .oldie-clear {
+            display: none;
+            *display: block;
+            *clear: both;
+        }
+    }
+
+}
+
+/* Grid: Base styles */
+.grid {
+    @extend .frag-box;
+    @extend .frag-clearfix;
+    width: auto;
+    max-width: $frag-max-width;
+    
+    // Old-IE grid styles
+    @if $frag-oldie-support {
+        *width: $frag-oldie-width;
+
+        // Flatten nested grids
+        .grid {
+            *width: auto;
+            .col {
+                *width: auto;
+                *float: none;
+            }
+        }
+    }
+}
+
+/* Grid: Column styles */
+.col {
+    @extend .frag-box;
+    float: left;
+    padding-left: $frag-gutter-width;
+    padding-right: $frag-gutter-width;
+}
+[dir=rtl] .col {
+    float: right;
+}
+
+/* Grid: Remove column gutter */
+.col-degutter {
+    padding-left: 0;
+    padding-right: 0;
+
+    // Re-add padding for Old IE. Sorry.
+    @if $frag-oldie-support {
+        *padding-left: $frag-gutter-width;
+        *padding-right: $frag-gutter-width;
+    }
+}
+
+/* Grid: Base columns */
+@include frag-cols("dsk-", $frag-oldie-support);
+
+// Tablet break-point
+@media all and (max-width: $frag-break-tablet) {
+    @include frag-cols("tab-");
+}
+
+// Mobile break-point
+@media all and (max-width: $frag-break-mobile) {
+    @include frag-cols("mob-");
+}

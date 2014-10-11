@@ -1,0 +1,29 @@
+
+/*
+ * Stack object
+ * ------------
+ *
+ * Remove standard list styling and stack list items.
+ *
+ *     <ul class="stack">
+ *         <li> ... </li>
+ *         <li> ... </li>
+ *     </ul>
+ */
+.stack {
+    padding-left: 0;
+    list-style: none;
+
+    > li, > .item {
+        &, > a {
+            display: block;
+        }
+    }
+}
+
+@if $pigeon-rtl {
+    /* Right-to-left support */
+    [dir=rtl] .stack {
+        padding-right: 0;
+    }
+}

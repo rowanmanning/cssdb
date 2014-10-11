@@ -94,7 +94,9 @@ function updateLibraryWithRepoData (lib, repo) {
     lib.updatedAt = repo.updated_at;
     lib.pushedAt = repo.pushed_at;
     lib.stars = repo.stargazers_count;
+    lib.starsFormatted = formatNumber(lib.stars);
     lib.forks = repo.forks;
+    lib.forksFormatted = formatNumber(lib.forks);
     lib.openIssues = repo.open_issues;
     lib.owner = lib.owner || {};
     lib.owner.username = repo.owner.login;
@@ -138,4 +140,18 @@ function calculateLibraryScore (lib) {
 
 function isValidRepoName (repoName) {
     return /[a-z0-9\-_]\/[a-z0-9\-_]/i.test(repoName);
+}
+
+function formatNumber (context) {
+    var num = parseInt(context, 10);
+    if (num < 1000) {
+        return num;
+    }
+    if (num < 10000) {
+        return (num / 1000).toFixed(1) + 'K';
+    }
+    if (num < 1000000) {
+        return Math.floor(num / 1000) + 'K';
+    }
+    return (num / 1000000).toFixed(1) + 'M';
 }

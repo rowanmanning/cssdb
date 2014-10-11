@@ -1,0 +1,54 @@
+
+/*
+ * Lineup object
+ * -------------
+ *
+ * Remove standard list styling and display list
+ * items inline.
+ *
+ *     <ul class="lineup">
+ *         <li> ... </li>
+ *         <li> ... </li>
+ *     </ul>
+ */
+.lineup {
+    padding-left: 0;
+    list-style: none;
+
+    > li, > .item {
+        &, > a {
+            @include inline-block;
+        }
+    }
+}
+
+@if $pigeon-rtl {
+    /* Right-to-left support */
+    [dir=rtl] .lineup {
+        padding-right: 0;
+    }
+}
+
+/*
+ * Lineup object Delimited modifier
+ * --------------------------------
+ *
+ * Add a delimiter to list items. Dependent on the
+ * Lineup object.
+ *
+ *     <ul class="lineup lineup-is-delimited">
+ *         <li> ... </li>
+ *         <li> ... </li>
+ *     </ul>
+ */
+.lineup-is-delimited {
+    > li, > .item {
+        &:after {
+            content: $pigeon-lineup-delimiter;
+        }
+        &:last-child:after {
+            content: "";
+            display: none;
+        }
+    }
+}

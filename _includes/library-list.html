@@ -1,14 +1,45 @@
 
 {% assign libraries = site.data.libraries | sort: 'score' | reverse %}
 
-<ol class="libraries">
+<ol class="stack space-above-more libraries">
     {% for library in libraries %}
         {% if library.isValid %}
-            <li>
-                <h3>
-                    <a href="{{library.url}}">{{library.name}}</a>
-                </h3>
-                <p>{{library.description}}</p>
+            <li class="space-more">
+                <div class="cramp clearfix library">
+
+                    <div class="library-content">
+
+                        <h3 class="cramp library-title">
+                            <a href="{{library.url}}" class="shh-a">
+                                <span class="library-title-part library-title-owner">{{library.owner.username}}</span><span class="tab-hide">/</span><span class="library-title-part">{{library.name}}</span>
+                            </a>
+                        </h3>
+
+                        <p class="library-description">
+                            {{library.description}}
+                            <a href="{{library.url}}" class="library-url">{{library.url}}</a>
+                        </p>
+
+                    </div>
+
+                    <ul class="cramp stack library-meta">
+                        <li class="library-stars">
+                            <span class="library-meta-count">
+                                <span class="icon">&#xe001;</span>
+                                {{library.starsFormatted}}
+                            </span>
+                            <span class="library-meta-label hide">Stars</span>
+                        </li>
+                        <li class="library-forks">
+                            <span class="library-meta-count">
+                                <span class="icon">&#xe000;</span>
+                                {{library.forksFormatted}}
+                            </span>
+                            <span class="library-meta-label hide">Forks</span>
+                        </li>
+                    </ul>
+
+                </div>
             </li>
         {% endif %}
     {% endfor %}

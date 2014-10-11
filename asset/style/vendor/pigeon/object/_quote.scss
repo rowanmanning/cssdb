@@ -1,0 +1,32 @@
+
+/*
+ * Quote object
+ * ------------
+ *
+ * Style a quote. Extends the `indent` object.
+ *
+ * This object is extended by the blockquote element.
+ *
+ *     <blockquote class="quote">
+ *         <p class="quote-body"> ... </p>
+ *         <p class="quote-attrib">Someone in <cite>Work</cite></p>
+ *     </blockquote>
+ */
+.quote {
+    @extend .indent;
+    margin-left: 0;
+    margin-right: 0;
+}
+.quote-body, .quote-attrib {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.quote-attrib {
+    @include rem(font-size, $pigeon-type-size-small);
+    @include rem(line-height, $pigeon-type-line-height-small);
+    font-style: italic;
+
+    &:before {
+        content: "—";
+    }
+}

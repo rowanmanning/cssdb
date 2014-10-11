@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>CSSDB</ShortName>
+    <Description>Search CSS, Sass, LESS and Stylus libraries</Description>
+    <Image width="16" height="16" type="image/x-icon">http://cssdb.co/favicon.ico</Image>
+    <Url type="text/html" method="get" template="http://cssdb.co/search?q={searchTerms}"/>
+    <moz:SearchForm>http://cssdb.co/search</moz:SearchForm>
+    <InputEncoding>UTF-8</InputEncoding>
+ </OpenSearchDescription>

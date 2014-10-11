@@ -1,0 +1,66 @@
+
+/* Form fields */
+
+.field label {
+    display: block;
+    @include rem(margin-bottom, 10px);
+    font-weight: bold;
+}
+
+.field-buttons {
+    text-align: right;
+}
+[dir=rtl] .field-buttons {
+    text-align: left;
+}
+
+
+/* Basic input styles */
+
+input[type=search], input[type=text] {
+    @include box-sizing(border-box);
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+.input-search, .input-text {
+    width: 100%;
+    *width: 90%;
+    display: block;
+    @include box-sizing(border-box);
+    @include rem(padding, 10px);
+    border: 3px solid #ccc;
+
+    &:focus {
+        outline: none;
+        border: 3px solid $c-teal;
+    }
+}
+
+
+/* Buttons */
+
+.input-button {
+    @include inline-block;
+    @include box-sizing(border-box !important);
+    @include rem(padding, 10px);
+    background-color: #ccc;
+    border: 0;
+
+    &:focus, &:hover {
+        outline: none;
+        background-color: $c-teal;
+    }
+}
+
+
+/* Form feedback */
+
+.feedback {
+    @include rem(padding, 10px);
+    background-color: #eee;
+    border: 3px solid #ccc;
+}
+.feedback-error {
+    background-color: #fee;
+    border: 3px solid #c88;
+}

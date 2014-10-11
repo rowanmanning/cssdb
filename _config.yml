@@ -1,13 +1,18 @@
 
 # Jekyll config
 exclude:
+  - asset/style/vendor
   - CNAME
   - Makefile
+  - node_modules
   - package.json
   - README.md
 future: false
 lsi: false
 safe: true
+sass:
+  sass_dir: asset/style
+  style: :compressed
 timezone: Europe/London
 
 # Front-matter defaults
