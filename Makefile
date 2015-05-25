@@ -26,6 +26,11 @@ clean-libs:
 	@echo "$(C_CYAN)> Cleaning libraries$(C_RESET)"
 	@node ./_script/clean-libraries.js
 
+# Dedupe libraries
+dedupe-libs:
+	@echo "$(C_CYAN)> Deduping libraries$(C_RESET)"
+	@node ./_script/dedupe-libraries.js
+
 # Build the site
 build:
 	@echo "$(C_CYAN)> Building site$(C_RESET)"
