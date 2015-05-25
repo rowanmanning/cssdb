@@ -88,7 +88,7 @@ function updateLibraryWithRepoData (lib, repo) {
     lib.repo = repo.full_name;
     lib.description = repo.description;
     lib.repoUrl = repo.html_url;
-    lib.homepage = repo.homepage;
+    lib.homepage = sanitizeHomePage(repo.homepage);
     lib.url = lib.homepage || lib.repoUrl;
     lib.createdAt = repo.created_at;
     lib.updatedAt = repo.updated_at;
@@ -106,7 +106,7 @@ function updateLibraryWithOwnerData (lib, owner) {
     lib.owner.name = owner.name;
     lib.owner.avatarUrl = owner.avatar_url;
     lib.owner.gravatarId = owner.gravatar_id;
-    lib.owner.homepage = owner.blog;
+    lib.owner.homepage = sanitizeHomePage(owner.blog);
     lib.owner.githubUrl = owner.html_url;
     lib.owner.url = lib.owner.homepage || lib.owner.githubUrl;
 }
@@ -154,4 +154,14 @@ function formatNumber (context) {
         return Math.floor(num / 1000) + 'K';
     }
     return (num / 1000000).toFixed(1) + 'M';
+}
+
+function sanitizeHomePage (url) {
+    if (!url) {
+        return null;
+    }
+    if (!/^https?:\/\//.test(url)) {
+        return 'http://' + url;
+    }
+    return url;
 }
