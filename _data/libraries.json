@@ -2377,7 +2377,32 @@
     },
     {
         "repo": "ride-css/ride-css",
-        "submittedAt": 1420802936053
+        "submittedAt": 1420802936053,
+        "refreshedAt": 1432585501765,
+        "isValid": true,
+        "name": "ride-css",
+        "description": "A stylus mixins library for a faster css development.",
+        "repoUrl": "https://github.com/ride-css/ride-css",
+        "homepage": "http://ridecss.com",
+        "url": "http://ridecss.com",
+        "createdAt": "2014-08-06T18:01:57Z",
+        "updatedAt": "2015-05-11T17:23:31Z",
+        "pushedAt": "2015-05-17T12:31:38Z",
+        "stars": 4,
+        "starsFormatted": 4,
+        "forks": 0,
+        "forksFormatted": 0,
+        "openIssues": 0,
+        "owner": {
+            "username": "ride-css",
+            "name": "",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8377104?v=3",
+            "gravatarId": "",
+            "homepage": null,
+            "githubUrl": "https://github.com/ride-css",
+            "url": "https://github.com/ride-css"
+        },
+        "score": 2
     },
     {
         "repo": "rkrupinski/lamegrid",
@@ -2670,7 +2695,32 @@
     },
     {
         "repo": "sebnitu/BaseWeb",
-        "submittedAt": 1429551047626
+        "submittedAt": 1429551047626,
+        "refreshedAt": 1432585501761,
+        "isValid": true,
+        "name": "BaseWeb",
+        "description": "A fresh front-end bootstrap framework.",
+        "repoUrl": "https://github.com/sebnitu/BaseWeb",
+        "homepage": null,
+        "url": "https://github.com/sebnitu/BaseWeb",
+        "createdAt": "2012-02-24T00:38:07Z",
+        "updatedAt": "2015-05-05T01:01:34Z",
+        "pushedAt": "2015-05-14T17:38:40Z",
+        "stars": 14,
+        "starsFormatted": 14,
+        "forks": 3,
+        "forksFormatted": 3,
+        "openIssues": 0,
+        "owner": {
+            "username": "sebnitu",
+            "name": "Sebastian Nitu",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/369070?v=3",
+            "gravatarId": "",
+            "homepage": "http://sebnitu.com",
+            "githubUrl": "https://github.com/sebnitu",
+            "url": "http://sebnitu.com"
+        },
+        "score": 10
     },
     {
         "repo": "seelva/seelva",
@@ -2783,8 +2833,8 @@
             "githubUrl": "https://github.com/Snugug",
             "url": "http://snugug.com"
         },
-        "score": 8,
-        "refreshedAt": 1413054644671,
+        "score": 7,
+        "refreshedAt": 1432585501776,
         "starsFormatted": 10,
         "forksFormatted": 2
     },
