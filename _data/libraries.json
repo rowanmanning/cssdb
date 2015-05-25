@@ -58,6 +58,35 @@
         "refreshedAt": 1432583697575
     },
     {
+        "repo": "artofrawr/profoundgrid",
+        "submittedAt": 1432586067455,
+        "refreshedAt": 1432586146889,
+        "isValid": true,
+        "name": "profoundgrid",
+        "description": "Responsive grid for fixed & fluid layouts.",
+        "repoUrl": "https://github.com/artofrawr/profoundgrid",
+        "homepage": "http://www.profoundgrid.com",
+        "url": "http://www.profoundgrid.com",
+        "createdAt": "2013-01-01T01:51:39Z",
+        "updatedAt": "2015-05-25T17:25:34Z",
+        "pushedAt": "2014-09-11T14:17:34Z",
+        "stars": 939,
+        "starsFormatted": 939,
+        "forks": 175,
+        "forksFormatted": 175,
+        "openIssues": 11,
+        "owner": {
+            "username": "artofrawr",
+            "name": "Jens Fischer",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/925626?v=3",
+            "gravatarId": "",
+            "homepage": "http://www.weareprofound.com/jens",
+            "githubUrl": "https://github.com/artofrawr",
+            "url": "http://www.weareprofound.com/jens"
+        },
+        "score": 1285
+    },
+    {
         "repo": "at-import/breakpoint",
         "submittedAt": 1412629200000,
         "isValid": true,
@@ -375,6 +404,35 @@
         "starsFormatted": 494,
         "forksFormatted": 41,
         "refreshedAt": 1432583697628
+    },
+    {
+        "repo": "cmaddux/littlebox",
+        "submittedAt": 1432586027603,
+        "refreshedAt": 1432586146907,
+        "isValid": true,
+        "name": "littlebox",
+        "description": "Super simple to implement, CSS-only icons.",
+        "repoUrl": "https://github.com/cmaddux/littlebox",
+        "homepage": "http://littlebox.cabmaddux.com",
+        "url": "http://littlebox.cabmaddux.com",
+        "createdAt": "2015-01-30T23:00:52Z",
+        "updatedAt": "2015-05-07T22:30:05Z",
+        "pushedAt": "2015-02-23T22:14:45Z",
+        "stars": 555,
+        "starsFormatted": 555,
+        "forks": 31,
+        "forksFormatted": 31,
+        "openIssues": 4,
+        "owner": {
+            "username": "cmaddux",
+            "name": "Cabell Maddux",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6571421?v=3",
+            "gravatarId": "",
+            "homepage": "http://www.cabmaddux.com",
+            "githubUrl": "https://github.com/cmaddux",
+            "url": "http://www.cabmaddux.com"
+        },
+        "score": 351
     },
     {
         "repo": "Compass/compass",
@@ -841,6 +899,35 @@
         "refreshedAt": 1432583698643
     },
     {
+        "repo": "Dogfalo/materialize",
+        "submittedAt": 1432585995739,
+        "refreshedAt": 1432586146911,
+        "isValid": true,
+        "name": "materialize",
+        "description": "Materialize, a CSS Framework based on Material Design",
+        "repoUrl": "https://github.com/Dogfalo/materialize",
+        "homepage": "http://materializecss.com",
+        "url": "http://materializecss.com",
+        "createdAt": "2014-09-12T19:35:38Z",
+        "updatedAt": "2015-05-25T19:39:40Z",
+        "pushedAt": "2015-05-25T12:17:00Z",
+        "stars": 9536,
+        "starsFormatted": "9.5K",
+        "forks": 1025,
+        "forksFormatted": "1.0K",
+        "openIssues": 242,
+        "owner": {
+            "username": "Dogfalo",
+            "name": "Alvin Wang",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2775751?v=3",
+            "gravatarId": "",
+            "homepage": null,
+            "githubUrl": "https://github.com/Dogfalo",
+            "url": "https://github.com/Dogfalo"
+        },
+        "score": 11586
+    },
+    {
         "repo": "dreyacosta/xpressio",
         "submittedAt": 1412629200000,
         "isValid": true,
@@ -957,6 +1044,35 @@
         "refreshedAt": 1432583697648
     },
     {
+        "repo": "FortAwesome/Font-Awesome",
+        "submittedAt": 1432585912412,
+        "refreshedAt": 1432586146872,
+        "isValid": true,
+        "name": "Font-Awesome",
+        "description": "The iconic font and CSS toolkit",
+        "repoUrl": "https://github.com/FortAwesome/Font-Awesome",
+        "homepage": "http://fontawesome.io",
+        "url": "http://fontawesome.io",
+        "createdAt": "2012-02-17T14:19:43Z",
+        "updatedAt": "2015-05-25T20:33:38Z",
+        "pushedAt": "2015-05-25T11:37:22Z",
+        "stars": 33237,
+        "starsFormatted": "33K",
+        "forks": 5250,
+        "forksFormatted": "5.3K",
+        "openIssues": 2685,
+        "owner": {
+            "username": "FortAwesome",
+            "name": "Fort Awesome",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1505683?v=3",
+            "gravatarId": "",
+            "homepage": null,
+            "githubUrl": "https://github.com/FortAwesome",
+            "url": "https://github.com/FortAwesome"
+        },
+        "score": 43737
+    },
+    {
         "repo": "ghinda/css-toggle-switch",
         "submittedAt": 1412629200000,
         "isValid": true,
@@ -984,6 +1100,35 @@
         "starsFormatted": 337,
         "forksFormatted": 53,
         "refreshedAt": 1432583697549
+    },
+    {
+        "repo": "gillesbertaux/andy",
+        "submittedAt": 1432585834900,
+        "refreshedAt": 1432586146867,
+        "isValid": true,
+        "name": "andy",
+        "description": "Open-Source Collection of Useful SASS Mixins Library",
+        "repoUrl": "https://github.com/gillesbertaux/andy",
+        "homepage": "http://gillesbertaux.com/andy",
+        "url": "http://gillesbertaux.com/andy",
+        "createdAt": "2014-10-25T20:13:02Z",
+        "updatedAt": "2015-05-18T16:29:03Z",
+        "pushedAt": "2015-01-31T15:37:06Z",
+        "stars": 426,
+        "starsFormatted": 426,
+        "forks": 53,
+        "forksFormatted": 53,
+        "openIssues": 3,
+        "owner": {
+            "username": "gillesbertaux",
+            "name": "Gilles Bertaux",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3040867?v=3",
+            "gravatarId": "",
+            "homepage": "http://gillesbertaux.com",
+            "githubUrl": "https://github.com/gillesbertaux",
+            "url": "http://gillesbertaux.com"
+        },
+        "score": 440
     },
     {
         "repo": "groundworkcss/groundwork",
@@ -1562,6 +1707,35 @@
         "starsFormatted": 5,
         "forksFormatted": 2,
         "refreshedAt": 1432583697662
+    },
+    {
+        "repo": "justinhough/Centurion",
+        "submittedAt": 1432585954389,
+        "refreshedAt": 1432586146875,
+        "isValid": true,
+        "name": "Centurion",
+        "description": "Centurion is a web-based framework for rapid prototyping and building larger web projects.",
+        "repoUrl": "https://github.com/justinhough/Centurion",
+        "homepage": "http://www.centurionframework.com",
+        "url": "http://www.centurionframework.com",
+        "createdAt": "2011-09-28T04:50:38Z",
+        "updatedAt": "2015-05-20T09:17:37Z",
+        "pushedAt": "2015-05-21T05:57:10Z",
+        "stars": 318,
+        "starsFormatted": 318,
+        "forks": 69,
+        "forksFormatted": 69,
+        "openIssues": 1,
+        "owner": {
+            "username": "justinhough",
+            "name": "Justin Hough",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/9469422?v=3",
+            "gravatarId": "",
+            "homepage": "http://www.justinhough.com",
+            "githubUrl": "https://github.com/justinhough",
+            "url": "http://www.justinhough.com"
+        },
+        "score": 396
     },
     {
         "repo": "kaelig/hidpi",
@@ -2660,7 +2834,7 @@
             "url": "http://oss.sapo.pt"
         },
         "score": 1719,
-        "refreshedAt": 1432583698690,
+        "refreshedAt": 1432583698667,
         "starsFormatted": "1.3K",
         "forksFormatted": 227
     },
@@ -2689,7 +2863,7 @@
             "url": "http://oss.sapo.pt"
         },
         "score": 1719,
-        "refreshedAt": 1432583698667,
+        "refreshedAt": 1432583698690,
         "starsFormatted": "1.3K",
         "forksFormatted": 227
     },
@@ -2805,7 +2979,7 @@
             "url": "http://snugug.com"
         },
         "score": 7,
-        "refreshedAt": 1432583697810,
+        "refreshedAt": 1432585501776,
         "starsFormatted": 10,
         "forksFormatted": 2
     },
@@ -2834,7 +3008,7 @@
             "url": "http://snugug.com"
         },
         "score": 7,
-        "refreshedAt": 1432585501776,
+        "refreshedAt": 1432583697810,
         "starsFormatted": 10,
         "forksFormatted": 2
     },
