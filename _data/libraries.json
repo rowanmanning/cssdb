@@ -3423,7 +3423,32 @@
     },
     {
         "repo": "tzi/chewing-grid.css",
-        "submittedAt": 1435932800060
+        "submittedAt": 1435932800060,
+        "refreshedAt": 1440234276898,
+        "isValid": true,
+        "name": "chewing-grid.css",
+        "description": "A CSS Grid ideal for card listing design like tiles, videos or articles listing. Responsive without media-queries.",
+        "repoUrl": "https://github.com/tzi/chewing-grid.css",
+        "homepage": "http://tzi.github.io/chewing-grid.css",
+        "url": "http://tzi.github.io/chewing-grid.css",
+        "createdAt": "2015-06-09T20:05:19Z",
+        "updatedAt": "2015-08-22T07:17:32Z",
+        "pushedAt": "2015-08-20T13:47:56Z",
+        "stars": 47,
+        "starsFormatted": 47,
+        "forks": 5,
+        "forksFormatted": 5,
+        "openIssues": 0,
+        "owner": {
+            "username": "tzi",
+            "name": "Thomas ZILLIOX",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/415891?v=3",
+            "gravatarId": "",
+            "homepage": "http://tzi.fr",
+            "githubUrl": "https://github.com/tzi",
+            "url": "http://tzi.fr"
+        },
+        "score": 56
     },
     {
         "repo": "uikit/uikit",
