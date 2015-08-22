@@ -1944,7 +1944,32 @@
     },
     {
         "repo": "MarkehMe/pure-sass",
-        "submittedAt": 1439434624399
+        "submittedAt": 1439434624399,
+        "refreshedAt": 1440234387789,
+        "isValid": true,
+        "name": "pure-sass",
+        "description": "Up to date version of Pure Sass generated from Sassinate Pure",
+        "repoUrl": "https://github.com/MarkehMe/pure-sass",
+        "homepage": null,
+        "url": "https://github.com/MarkehMe/pure-sass",
+        "createdAt": "2015-08-12T12:03:06Z",
+        "updatedAt": "2015-08-13T03:36:27Z",
+        "pushedAt": "2015-08-12T12:48:33Z",
+        "stars": 1,
+        "starsFormatted": 1,
+        "forks": 0,
+        "forksFormatted": 0,
+        "openIssues": 0,
+        "owner": {
+            "username": "MarkehMe",
+            "name": "Mark Hughes",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1357323?v=3",
+            "gravatarId": "",
+            "homepage": "http://markeh.me",
+            "githubUrl": "https://github.com/MarkehMe",
+            "url": "http://markeh.me"
+        },
+        "score": 0
     },
     {
         "repo": "mateuszkocz/3l",
