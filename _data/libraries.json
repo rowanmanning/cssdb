@@ -9,11 +9,11 @@
         "homepage": "http://unicorn-ui.com/buttons/builder/",
         "url": "http://unicorn-ui.com/buttons/builder/",
         "createdAt": "2013-01-22T01:57:38Z",
-        "updatedAt": "2015-05-25T19:02:25Z",
-        "pushedAt": "2015-04-13T10:54:24Z",
-        "stars": 4321,
-        "forks": 819,
-        "openIssues": 4,
+        "updatedAt": "2015-08-21T17:01:35Z",
+        "pushedAt": "2015-06-10T23:15:47Z",
+        "stars": 4485,
+        "forks": 827,
+        "openIssues": 8,
         "owner": {
             "username": "alexwolfe",
             "name": "Alex Wolfe",
@@ -23,10 +23,10 @@
             "githubUrl": "https://github.com/alexwolfe",
             "url": "http://www.airwolfe.com"
         },
-        "score": 5953,
-        "starsFormatted": "4.3K",
-        "forksFormatted": 819,
-        "refreshedAt": 1432583697564
+        "score": 6040,
+        "starsFormatted": "4.5K",
+        "forksFormatted": 827,
+        "refreshedAt": 1440234158539
     },
     {
         "repo": "andytlr/cssgrid",
@@ -38,10 +38,10 @@
         "homepage": "http://cssgrid.net",
         "url": "http://cssgrid.net",
         "createdAt": "2011-01-07T06:24:29Z",
-        "updatedAt": "2015-05-12T18:20:37Z",
+        "updatedAt": "2015-07-26T08:45:21Z",
         "pushedAt": "2013-04-09T12:17:04Z",
-        "stars": 335,
-        "forks": 168,
+        "stars": 332,
+        "forks": 165,
         "openIssues": 4,
         "owner": {
             "username": "andytlr",
@@ -52,15 +52,15 @@
             "githubUrl": "https://github.com/andytlr",
             "url": "http://andytaylor.me"
         },
-        "score": 460,
-        "starsFormatted": 335,
-        "forksFormatted": 168,
-        "refreshedAt": 1432583697575
+        "score": 331,
+        "starsFormatted": 332,
+        "forksFormatted": 165,
+        "refreshedAt": 1440234158577
     },
     {
         "repo": "artofrawr/profoundgrid",
         "submittedAt": 1432586067455,
-        "refreshedAt": 1432586146889,
+        "refreshedAt": 1440234158544,
         "isValid": true,
         "name": "profoundgrid",
         "description": "Responsive grid for fixed & fluid layouts.",
@@ -68,13 +68,13 @@
         "homepage": "http://www.profoundgrid.com",
         "url": "http://www.profoundgrid.com",
         "createdAt": "2013-01-01T01:51:39Z",
-        "updatedAt": "2015-05-25T17:25:34Z",
-        "pushedAt": "2014-09-11T14:17:34Z",
-        "stars": 939,
-        "starsFormatted": 939,
+        "updatedAt": "2015-08-22T08:02:11Z",
+        "pushedAt": "2015-07-31T03:24:44Z",
+        "stars": 956,
+        "starsFormatted": 956,
         "forks": 175,
         "forksFormatted": 175,
-        "openIssues": 11,
+        "openIssues": 13,
         "owner": {
             "username": "artofrawr",
             "name": "Jens Fischer",
@@ -84,7 +84,7 @@
             "githubUrl": "https://github.com/artofrawr",
             "url": "http://www.weareprofound.com/jens"
         },
-        "score": 1285
+        "score": 1304
     },
     {
         "repo": "at-import/breakpoint",
@@ -96,11 +96,11 @@
         "homepage": null,
         "url": "https://github.com/at-import/breakpoint",
         "createdAt": "2012-05-23T03:43:02Z",
-        "updatedAt": "2015-05-25T12:42:22Z",
-        "pushedAt": "2015-01-21T19:01:52Z",
-        "stars": 1349,
-        "forks": 92,
-        "openIssues": 16,
+        "updatedAt": "2015-08-22T01:33:46Z",
+        "pushedAt": "2015-06-12T22:07:38Z",
+        "stars": 1423,
+        "forks": 100,
+        "openIssues": 18,
         "owner": {
             "username": "at-import",
             "name": "@import",
@@ -110,10 +110,10 @@
             "githubUrl": "https://github.com/at-import",
             "url": "https://github.com/at-import"
         },
-        "score": 1522,
-        "starsFormatted": "1.3K",
-        "forksFormatted": 92,
-        "refreshedAt": 1432583697608
+        "score": 1611,
+        "starsFormatted": "1.4K",
+        "forksFormatted": 100,
+        "refreshedAt": 1440234158594
     },
     {
         "repo": "at-import/SassyLists",
@@ -125,11 +125,11 @@
         "homepage": null,
         "url": "https://github.com/at-import/SassyLists",
         "createdAt": "2013-09-21T13:42:29Z",
-        "updatedAt": "2015-04-24T10:56:09Z",
-        "pushedAt": "2014-12-01T11:36:00Z",
-        "stars": 231,
-        "forks": 21,
-        "openIssues": 5,
+        "updatedAt": "2015-07-15T17:25:26Z",
+        "pushedAt": "2015-06-17T03:11:30Z",
+        "stars": 236,
+        "forks": 23,
+        "openIssues": 6,
         "owner": {
             "username": "at-import",
             "name": "@import",
@@ -139,10 +139,10 @@
             "githubUrl": "https://github.com/at-import",
             "url": "https://github.com/at-import"
         },
-        "score": 136,
-        "starsFormatted": 231,
-        "forksFormatted": 21,
-        "refreshedAt": 1432583697600
+        "score": 141,
+        "starsFormatted": 236,
+        "forksFormatted": 23,
+        "refreshedAt": 1440234158560
     },
     {
         "repo": "atomicpages/skeleton-sass",
@@ -154,11 +154,11 @@
         "homepage": "http://atomicpages.github.io/skeleton-sass/",
         "url": "http://atomicpages.github.io/skeleton-sass/",
         "createdAt": "2013-03-17T05:40:18Z",
-        "updatedAt": "2015-05-12T12:28:20Z",
-        "pushedAt": "2015-05-22T13:24:57Z",
-        "stars": 54,
-        "forks": 15,
-        "openIssues": 4,
+        "updatedAt": "2015-08-01T08:53:32Z",
+        "pushedAt": "2015-07-26T08:44:43Z",
+        "stars": 59,
+        "forks": 16,
+        "openIssues": 1,
         "owner": {
             "username": "atomicpages",
             "name": "AtomicPages LLC",
@@ -168,10 +168,10 @@
             "githubUrl": "https://github.com/atomicpages",
             "url": "http://www.atomicpages.net/"
         },
-        "score": 57,
-        "starsFormatted": 54,
-        "forksFormatted": 15,
-        "refreshedAt": 1432583697736
+        "score": 45,
+        "starsFormatted": 59,
+        "forksFormatted": 16,
+        "refreshedAt": 1440234158573
     },
     {
         "repo": "banquito/naranju",
@@ -193,14 +193,14 @@
             "name": "Banquito",
             "avatarUrl": "https://avatars.githubusercontent.com/u/1267829?v=3",
             "gravatarId": "",
-            "homepage": "http://www.elgalpondebanquito.com.ar",
+            "homepage": "http://www.banquito.com.ar",
             "githubUrl": "https://github.com/banquito",
-            "url": "http://www.elgalpondebanquito.com.ar"
+            "url": "http://www.banquito.com.ar"
         },
         "score": 0,
         "starsFormatted": 0,
         "forksFormatted": 0,
-        "refreshedAt": 1432583697613
+        "refreshedAt": 1440234158602
     },
     {
         "repo": "bozboz/luigi",
@@ -213,10 +213,10 @@
         "url": "https://github.com/bozboz/luigi",
         "createdAt": "2013-11-06T23:48:48Z",
         "updatedAt": "2015-03-25T10:44:35Z",
-        "pushedAt": "2015-03-25T10:47:53Z",
+        "pushedAt": "2015-05-28T19:47:32Z",
         "stars": 29,
-        "forks": 6,
-        "openIssues": 2,
+        "forks": 7,
+        "openIssues": 3,
         "owner": {
             "username": "bozboz",
             "name": "Bozboz",
@@ -226,10 +226,10 @@
             "githubUrl": "https://github.com/bozboz",
             "url": "http://www.bozboz.co.uk"
         },
-        "score": 20,
+        "score": 21,
         "starsFormatted": 29,
-        "forksFormatted": 6,
-        "refreshedAt": 1432583697602
+        "forksFormatted": 7,
+        "refreshedAt": 1440234158608
     },
     {
         "repo": "cburgmer/csscritic",
@@ -241,10 +241,10 @@
         "homepage": "http://cburgmer.github.io/csscritic",
         "url": "http://cburgmer.github.io/csscritic",
         "createdAt": "2012-08-23T23:38:05Z",
-        "updatedAt": "2015-05-25T09:29:58Z",
-        "pushedAt": "2015-05-04T15:13:28Z",
-        "stars": 294,
-        "forks": 13,
+        "updatedAt": "2015-08-21T07:56:44Z",
+        "pushedAt": "2015-06-06T07:41:14Z",
+        "stars": 308,
+        "forks": 15,
         "openIssues": 20,
         "owner": {
             "username": "cburgmer",
@@ -255,10 +255,10 @@
             "githubUrl": "https://github.com/cburgmer",
             "url": "http://cburgmer.wordpress.com/"
         },
-        "score": 316,
-        "starsFormatted": 294,
-        "forksFormatted": 13,
-        "refreshedAt": 1432583697562
+        "score": 329,
+        "starsFormatted": 308,
+        "forksFormatted": 15,
+        "refreshedAt": 1440234158585
     },
     {
         "repo": "chinchang/hint.css",
@@ -270,24 +270,24 @@
         "homepage": "http://kushagragour.in/lab/hint/",
         "url": "http://kushagragour.in/lab/hint/",
         "createdAt": "2012-12-30T20:17:34Z",
-        "updatedAt": "2015-05-25T03:47:00Z",
-        "pushedAt": "2015-03-06T19:03:29Z",
-        "stars": 3316,
-        "forks": 425,
-        "openIssues": 25,
+        "updatedAt": "2015-08-22T08:02:14Z",
+        "pushedAt": "2015-06-19T10:50:17Z",
+        "stars": 3512,
+        "forks": 441,
+        "openIssues": 29,
         "owner": {
             "username": "chinchang",
             "name": "Kushagra Gour",
             "avatarUrl": "https://avatars.githubusercontent.com/u/379918?v=3",
             "gravatarId": "",
-            "homepage": "http://www.kushagragour.in",
+            "homepage": "http://kushagragour.in",
             "githubUrl": "https://github.com/chinchang",
-            "url": "http://www.kushagragour.in"
+            "url": "http://kushagragour.in"
         },
-        "score": 4099,
-        "starsFormatted": "3.3K",
-        "forksFormatted": 425,
-        "refreshedAt": 1432583697621
+        "score": 4389,
+        "starsFormatted": "3.5K",
+        "forksFormatted": 441,
+        "refreshedAt": 1440234158592
     },
     {
         "repo": "chrishumboldt/Blueplate",
@@ -299,9 +299,9 @@
         "homepage": "http://getwebplate.com/plugins/blueplate",
         "url": "http://getwebplate.com/plugins/blueplate",
         "createdAt": "2013-10-16T06:56:39Z",
-        "updatedAt": "2015-04-23T18:41:21Z",
+        "updatedAt": "2015-06-23T18:54:05Z",
         "pushedAt": "2015-04-23T06:20:09Z",
-        "stars": 28,
+        "stars": 30,
         "forks": 4,
         "openIssues": 0,
         "owner": {
@@ -313,10 +313,10 @@
             "githubUrl": "https://github.com/chrishumboldt",
             "url": "http://chrishumboldt.com"
         },
-        "score": 18,
-        "starsFormatted": 28,
+        "score": 19,
+        "starsFormatted": 30,
         "forksFormatted": 4,
-        "refreshedAt": 1432583697568
+        "refreshedAt": 1440234158596
     },
     {
         "repo": "chrishumboldt/Buttonplate",
@@ -328,8 +328,8 @@
         "homepage": "http://getwebplate.com/plugins/buttonplate",
         "url": "http://getwebplate.com/plugins/buttonplate",
         "createdAt": "2014-01-13T06:57:40Z",
-        "updatedAt": "2015-04-11T10:56:03Z",
-        "pushedAt": "2015-05-01T16:36:27Z",
+        "updatedAt": "2015-07-09T15:32:52Z",
+        "pushedAt": "2015-07-09T15:33:32Z",
         "stars": 3,
         "forks": 1,
         "openIssues": 0,
@@ -345,7 +345,7 @@
         "score": 2,
         "starsFormatted": 3,
         "forksFormatted": 1,
-        "refreshedAt": 1432583697572
+        "refreshedAt": 1440234159186
     },
     {
         "repo": "cjdsie/wirefy",
@@ -357,10 +357,10 @@
         "homepage": "http://getwirefy.com",
         "url": "http://getwirefy.com",
         "createdAt": "2012-06-11T10:51:40Z",
-        "updatedAt": "2015-05-19T21:49:52Z",
-        "pushedAt": "2015-02-25T10:39:09Z",
-        "stars": 695,
-        "forks": 100,
+        "updatedAt": "2015-08-18T19:32:41Z",
+        "pushedAt": "2015-07-03T09:22:09Z",
+        "stars": 702,
+        "forks": 99,
         "openIssues": 0,
         "owner": {
             "username": "cjdsie",
@@ -371,10 +371,10 @@
             "githubUrl": "https://github.com/cjdsie",
             "url": "http://chrisdasie.com"
         },
-        "score": 767,
-        "starsFormatted": 695,
-        "forksFormatted": 100,
-        "refreshedAt": 1432583697538
+        "score": 823,
+        "starsFormatted": 702,
+        "forksFormatted": 99,
+        "refreshedAt": 1440234159699
     },
     {
         "repo": "clearleft/clearless",
@@ -386,9 +386,9 @@
         "homepage": "http://clearleft.github.com/clearless/",
         "url": "http://clearleft.github.com/clearless/",
         "createdAt": "2012-06-20T14:24:00Z",
-        "updatedAt": "2015-05-20T23:12:14Z",
+        "updatedAt": "2015-07-28T15:38:02Z",
         "pushedAt": "2012-12-19T16:43:40Z",
-        "stars": 494,
+        "stars": 500,
         "forks": 41,
         "openIssues": 13,
         "owner": {
@@ -400,15 +400,15 @@
             "githubUrl": "https://github.com/clearleft",
             "url": "http://clearleft.com/"
         },
-        "score": 509,
-        "starsFormatted": 494,
+        "score": 291,
+        "starsFormatted": 500,
         "forksFormatted": 41,
-        "refreshedAt": 1432583697628
+        "refreshedAt": 1440234159192
     },
     {
         "repo": "cmaddux/littlebox",
         "submittedAt": 1432586027603,
-        "refreshedAt": 1432586146907,
+        "refreshedAt": 1440234159677,
         "isValid": true,
         "name": "littlebox",
         "description": "Super simple to implement, CSS-only icons.",
@@ -416,12 +416,12 @@
         "homepage": "http://littlebox.cabmaddux.com",
         "url": "http://littlebox.cabmaddux.com",
         "createdAt": "2015-01-30T23:00:52Z",
-        "updatedAt": "2015-05-07T22:30:05Z",
+        "updatedAt": "2015-08-08T19:02:33Z",
         "pushedAt": "2015-02-23T22:14:45Z",
-        "stars": 555,
-        "starsFormatted": 555,
-        "forks": 31,
-        "forksFormatted": 31,
+        "stars": 551,
+        "starsFormatted": 551,
+        "forks": 32,
+        "forksFormatted": 32,
         "openIssues": 4,
         "owner": {
             "username": "cmaddux",
@@ -432,7 +432,7 @@
             "githubUrl": "https://github.com/cmaddux",
             "url": "http://www.cabmaddux.com"
         },
-        "score": 351
+        "score": 414
     },
     {
         "repo": "Compass/compass",
@@ -444,24 +444,24 @@
         "homepage": "http://compass-style.org",
         "url": "http://compass-style.org",
         "createdAt": "2008-08-23T17:02:18Z",
-        "updatedAt": "2015-05-25T12:57:09Z",
-        "pushedAt": "2015-04-23T12:42:52Z",
-        "stars": 6286,
-        "forks": 1162,
-        "openIssues": 356,
+        "updatedAt": "2015-08-22T03:37:34Z",
+        "pushedAt": "2015-07-31T20:03:23Z",
+        "stars": 6405,
+        "forks": 1185,
+        "openIssues": 382,
         "owner": {
             "username": "Compass",
-            "name": "",
+            "name": null,
             "avatarUrl": "https://avatars.githubusercontent.com/u/455573?v=3",
             "gravatarId": "",
             "homepage": null,
             "githubUrl": "https://github.com/Compass",
             "url": "https://github.com/Compass"
         },
-        "score": 8549,
-        "starsFormatted": "6.3K",
+        "score": 8731,
+        "starsFormatted": "6.4K",
         "forksFormatted": "1.2K",
-        "refreshedAt": 1432583697699
+        "refreshedAt": 1440234159686
     },
     {
         "repo": "csscomb/csscomb",
@@ -473,9 +473,9 @@
         "homepage": "https://github.com/csscomb/csscomb.js",
         "url": "https://github.com/csscomb/csscomb.js",
         "createdAt": "2010-03-05T14:46:36Z",
-        "updatedAt": "2015-05-22T09:54:43Z",
+        "updatedAt": "2015-08-13T06:49:18Z",
         "pushedAt": "2013-12-16T10:40:17Z",
-        "stars": 665,
+        "stars": 664,
         "forks": 55,
         "openIssues": 11,
         "owner": {
@@ -487,10 +487,10 @@
             "githubUrl": "https://github.com/csscomb",
             "url": "http://csscomb.com"
         },
-        "score": 711,
-        "starsFormatted": 665,
+        "score": 605,
+        "starsFormatted": 664,
         "forksFormatted": 55,
-        "refreshedAt": 1432583697705
+        "refreshedAt": 1440234159209
     },
     {
         "repo": "csswizardry/beautons",
@@ -502,9 +502,9 @@
         "homepage": "http://csswizardry.com/beautons",
         "url": "http://csswizardry.com/beautons",
         "createdAt": "2013-01-16T19:06:11Z",
-        "updatedAt": "2015-05-11T01:08:07Z",
+        "updatedAt": "2015-08-17T11:32:53Z",
         "pushedAt": "2014-05-07T13:10:46Z",
-        "stars": 203,
+        "stars": 204,
         "forks": 23,
         "openIssues": 2,
         "owner": {
@@ -516,10 +516,10 @@
             "githubUrl": "https://github.com/csswizardry",
             "url": "http://csswizardry.com"
         },
-        "score": 160,
-        "starsFormatted": 203,
+        "score": 220,
+        "starsFormatted": 204,
         "forksFormatted": 23,
-        "refreshedAt": 1432583697580
+        "refreshedAt": 1440234159198
     },
     {
         "repo": "csswizardry/csswizardry-grids",
@@ -531,11 +531,11 @@
         "homepage": "http://csswizardry.com/csswizardry-grids",
         "url": "http://csswizardry.com/csswizardry-grids",
         "createdAt": "2013-02-06T20:23:12Z",
-        "updatedAt": "2015-05-22T20:24:25Z",
-        "pushedAt": "2014-10-20T16:08:35Z",
-        "stars": 1094,
-        "forks": 168,
-        "openIssues": 44,
+        "updatedAt": "2015-08-21T15:20:11Z",
+        "pushedAt": "2015-07-24T15:42:47Z",
+        "stars": 1141,
+        "forks": 178,
+        "openIssues": 45,
         "owner": {
             "username": "csswizardry",
             "name": "Harry Roberts",
@@ -545,10 +545,10 @@
             "githubUrl": "https://github.com/csswizardry",
             "url": "http://csswizardry.com"
         },
-        "score": 1328,
+        "score": 1471,
         "starsFormatted": "1.1K",
-        "forksFormatted": 168,
-        "refreshedAt": 1432583697578
+        "forksFormatted": 178,
+        "refreshedAt": 1440234159241
     },
     {
         "repo": "csswizardry/inuit.css",
@@ -560,11 +560,11 @@
         "homepage": "http://inuitcss.com",
         "url": "http://inuitcss.com",
         "createdAt": "2011-04-26T12:11:38Z",
-        "updatedAt": "2015-05-25T12:16:44Z",
-        "pushedAt": "2014-07-18T12:49:40Z",
-        "stars": 3858,
-        "forks": 528,
-        "openIssues": 26,
+        "updatedAt": "2015-08-21T22:14:02Z",
+        "pushedAt": "2015-06-10T23:38:00Z",
+        "stars": 3925,
+        "forks": 526,
+        "openIssues": 28,
         "owner": {
             "username": "csswizardry",
             "name": "Harry Roberts",
@@ -574,10 +574,10 @@
             "githubUrl": "https://github.com/csswizardry",
             "url": "http://csswizardry.com"
         },
-        "score": 4879,
+        "score": 4927,
         "starsFormatted": "3.9K",
-        "forksFormatted": 528,
-        "refreshedAt": 1432583698650
+        "forksFormatted": 526,
+        "refreshedAt": 1440234158606
     },
     {
         "repo": "daneden/animate.css",
@@ -589,11 +589,11 @@
         "homepage": "http://daneden.github.io/animate.css",
         "url": "http://daneden.github.io/animate.css",
         "createdAt": "2011-10-12T10:07:38Z",
-        "updatedAt": "2015-05-25T19:42:55Z",
-        "pushedAt": "2015-05-25T02:41:14Z",
-        "stars": 22314,
-        "forks": 4907,
-        "openIssues": 19,
+        "updatedAt": "2015-08-22T08:54:44Z",
+        "pushedAt": "2015-08-21T02:32:18Z",
+        "stars": 24594,
+        "forks": 5438,
+        "openIssues": 22,
         "owner": {
             "username": "daneden",
             "name": "Daniel Eden",
@@ -603,10 +603,10 @@
             "githubUrl": "https://github.com/daneden",
             "url": "http://daneden.me"
         },
-        "score": 32128,
-        "starsFormatted": "22K",
-        "forksFormatted": "4.9K",
-        "refreshedAt": 1432583698637
+        "score": 35470,
+        "starsFormatted": "24K",
+        "forksFormatted": "5.4K",
+        "refreshedAt": 1440234158618
     },
     {
         "repo": "daneden/Toast",
@@ -618,11 +618,11 @@
         "homepage": "http://daneden.github.io/Toast",
         "url": "http://daneden.github.io/Toast",
         "createdAt": "2011-11-21T13:22:45Z",
-        "updatedAt": "2015-05-25T19:45:06Z",
-        "pushedAt": "2015-01-22T01:45:56Z",
-        "stars": 1036,
-        "forks": 166,
-        "openIssues": 2,
+        "updatedAt": "2015-08-22T08:36:52Z",
+        "pushedAt": "2015-07-21T16:41:17Z",
+        "stars": 1101,
+        "forks": 170,
+        "openIssues": 3,
         "owner": {
             "username": "daneden",
             "name": "Daniel Eden",
@@ -632,10 +632,10 @@
             "githubUrl": "https://github.com/daneden",
             "url": "http://daneden.me"
         },
-        "score": 1368,
-        "starsFormatted": "1.0K",
-        "forksFormatted": 166,
-        "refreshedAt": 1432583697685
+        "score": 1441,
+        "starsFormatted": "1.1K",
+        "forksFormatted": 170,
+        "refreshedAt": 1440234159721
     },
     {
         "repo": "Darklg/CSSCommon",
@@ -648,7 +648,7 @@
         "url": "http://csscommon.com",
         "createdAt": "2011-10-30T09:52:25Z",
         "updatedAt": "2015-05-16T14:36:10Z",
-        "pushedAt": "2015-05-06T22:26:01Z",
+        "pushedAt": "2015-07-23T09:04:19Z",
         "stars": 41,
         "forks": 4,
         "openIssues": 0,
@@ -661,10 +661,10 @@
             "githubUrl": "https://github.com/Darklg",
             "url": "http://darklg.me"
         },
-        "score": 38,
+        "score": 24,
         "starsFormatted": 41,
         "forksFormatted": 4,
-        "refreshedAt": 1432583697545
+        "refreshedAt": 1440234159243
     },
     {
         "repo": "Darklg/CSSNormalize",
@@ -693,7 +693,7 @@
         "score": 0,
         "starsFormatted": 0,
         "forksFormatted": 0,
-        "refreshedAt": 1432583697543
+        "refreshedAt": 1440234163101
     },
     {
         "repo": "davidpaulrosser/stylus-platonic",
@@ -705,9 +705,9 @@
         "homepage": "http://davidpaulrosser.github.io/stylus-platonic",
         "url": "http://davidpaulrosser.github.io/stylus-platonic",
         "createdAt": "2013-05-12T18:47:26Z",
-        "updatedAt": "2015-05-08T12:29:24Z",
+        "updatedAt": "2015-08-04T09:52:21Z",
         "pushedAt": "2014-08-25T09:18:31Z",
-        "stars": 26,
+        "stars": 28,
         "forks": 3,
         "openIssues": 0,
         "owner": {
@@ -719,26 +719,26 @@
             "githubUrl": "https://github.com/davidpaulrosser",
             "url": "http://www.davidpaulrosser.co.uk"
         },
-        "score": 18,
-        "starsFormatted": 26,
+        "score": 19,
+        "starsFormatted": 28,
         "forksFormatted": 3,
-        "refreshedAt": 1432583697535
+        "refreshedAt": 1440234163103
     },
     {
         "repo": "designbyjake/sassline",
         "submittedAt": 1412629200000,
         "isValid": true,
         "name": "sassline",
-        "description": "Set text on the web to a baseline grid with Sass & rems.",
+        "description": "Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.",
         "repoUrl": "https://github.com/designbyjake/sassline",
-        "homepage": "http://sassline.com",
-        "url": "http://sassline.com",
+        "homepage": "https://sassline.com",
+        "url": "https://sassline.com",
         "createdAt": "2013-07-18T19:04:25Z",
-        "updatedAt": "2015-05-23T03:21:29Z",
-        "pushedAt": "2015-04-30T21:39:28Z",
-        "stars": 476,
-        "forks": 49,
-        "openIssues": 7,
+        "updatedAt": "2015-08-21T15:31:18Z",
+        "pushedAt": "2015-08-05T18:42:30Z",
+        "stars": 729,
+        "forks": 61,
+        "openIssues": 6,
         "owner": {
             "username": "designbyjake",
             "name": "Jake Giltsoff",
@@ -748,10 +748,10 @@
             "githubUrl": "https://github.com/designbyjake",
             "url": "http://jke.me"
         },
-        "score": 537,
-        "starsFormatted": 476,
-        "forksFormatted": 49,
-        "refreshedAt": 1432583697711
+        "score": 836,
+        "starsFormatted": 729,
+        "forksFormatted": 61,
+        "refreshedAt": 1440234158611
     },
     {
         "repo": "designmodo/Flat-UI",
@@ -763,11 +763,11 @@
         "homepage": "http://designmodo.com/flat-free/",
         "url": "http://designmodo.com/flat-free/",
         "createdAt": "2013-03-03T15:36:49Z",
-        "updatedAt": "2015-05-25T10:34:52Z",
-        "pushedAt": "2015-05-21T10:34:55Z",
-        "stars": 9830,
-        "forks": 1901,
-        "openIssues": 19,
+        "updatedAt": "2015-08-22T08:39:05Z",
+        "pushedAt": "2015-07-14T05:46:59Z",
+        "stars": 10349,
+        "forks": 2000,
+        "openIssues": 23,
         "owner": {
             "username": "designmodo",
             "name": "Designmodo",
@@ -777,10 +777,10 @@
             "githubUrl": "https://github.com/designmodo",
             "url": "http://designmodo.com/"
         },
-        "score": 13509,
-        "starsFormatted": "9.8K",
-        "forksFormatted": "1.9K",
-        "refreshedAt": 1432583697727
+        "score": 14349,
+        "starsFormatted": "10K",
+        "forksFormatted": "2.0K",
+        "refreshedAt": 1440234162552
     },
     {
         "repo": "devatrox/Sunglass",
@@ -792,9 +792,9 @@
         "homepage": "http://devatrox.github.io/Sunglass/",
         "url": "http://devatrox.github.io/Sunglass/",
         "createdAt": "2013-04-15T12:11:17Z",
-        "updatedAt": "2015-05-22T13:34:15Z",
+        "updatedAt": "2015-06-11T14:34:04Z",
         "pushedAt": "2014-08-24T11:07:55Z",
-        "stars": 111,
+        "stars": 110,
         "forks": 8,
         "openIssues": 0,
         "owner": {
@@ -802,14 +802,14 @@
             "name": "Jason Nickel",
             "avatarUrl": "https://avatars.githubusercontent.com/u/2033079?v=3",
             "gravatarId": "",
-            "homepage": "http://devatrox.github.io",
+            "homepage": "http://jasonnickel.de/",
             "githubUrl": "https://github.com/devatrox",
-            "url": "http://devatrox.github.io"
+            "url": "http://jasonnickel.de/"
         },
-        "score": 117,
-        "starsFormatted": 111,
+        "score": 63,
+        "starsFormatted": 110,
         "forksFormatted": 8,
-        "refreshedAt": 1432583697540
+        "refreshedAt": 1440234162008
     },
     {
         "repo": "dhg/Skeleton",
@@ -821,11 +821,11 @@
         "homepage": "http://www.getskeleton.com",
         "url": "http://www.getskeleton.com",
         "createdAt": "2011-04-30T20:04:24Z",
-        "updatedAt": "2015-05-25T19:33:42Z",
-        "pushedAt": "2015-05-12T14:07:46Z",
-        "stars": 8713,
-        "forks": 1481,
-        "openIssues": 54,
+        "updatedAt": "2015-08-22T07:50:24Z",
+        "pushedAt": "2015-08-05T17:36:14Z",
+        "stars": 9444,
+        "forks": 1663,
+        "openIssues": 62,
         "owner": {
             "username": "dhg",
             "name": "Dave Gamache",
@@ -835,10 +835,10 @@
             "githubUrl": "https://github.com/dhg",
             "url": "http://www.davegamache.com"
         },
-        "score": 11675,
-        "starsFormatted": "8.7K",
-        "forksFormatted": "1.5K",
-        "refreshedAt": 1432583697552
+        "score": 12757,
+        "starsFormatted": "9.4K",
+        "forksFormatted": "1.7K",
+        "refreshedAt": 1440234162014
     },
     {
         "repo": "djesse/yaml4-sass",
@@ -867,7 +867,7 @@
         "score": 41,
         "starsFormatted": 56,
         "forksFormatted": 13,
-        "refreshedAt": 1432583697611
+        "refreshedAt": 1440234161998
     },
     {
         "repo": "dmitryf/elements",
@@ -879,11 +879,11 @@
         "homepage": "http://lesselements.com",
         "url": "http://lesselements.com",
         "createdAt": "2011-04-28T22:57:25Z",
-        "updatedAt": "2015-05-20T19:14:20Z",
-        "pushedAt": "2013-01-15T20:29:08Z",
-        "stars": 1370,
-        "forks": 394,
-        "openIssues": 54,
+        "updatedAt": "2015-08-17T14:37:53Z",
+        "pushedAt": "2015-08-02T18:40:11Z",
+        "stars": 1390,
+        "forks": 404,
+        "openIssues": 53,
         "owner": {
             "username": "dmitryf",
             "name": "Dmitry Fadeyev",
@@ -893,15 +893,15 @@
             "githubUrl": "https://github.com/dmitryf",
             "url": "http://www.usabilitypost.com"
         },
-        "score": 1899,
+        "score": 1947,
         "starsFormatted": "1.4K",
-        "forksFormatted": 394,
-        "refreshedAt": 1432583698643
+        "forksFormatted": 404,
+        "refreshedAt": 1440234159211
     },
     {
         "repo": "Dogfalo/materialize",
         "submittedAt": 1432585995739,
-        "refreshedAt": 1432586146911,
+        "refreshedAt": 1440234162010,
         "isValid": true,
         "name": "materialize",
         "description": "Materialize, a CSS Framework based on Material Design",
@@ -909,13 +909,13 @@
         "homepage": "http://materializecss.com",
         "url": "http://materializecss.com",
         "createdAt": "2014-09-12T19:35:38Z",
-        "updatedAt": "2015-05-25T19:39:40Z",
-        "pushedAt": "2015-05-25T12:17:00Z",
-        "stars": 9536,
-        "starsFormatted": "9.5K",
-        "forks": 1025,
-        "forksFormatted": "1.0K",
-        "openIssues": 242,
+        "updatedAt": "2015-08-22T08:42:28Z",
+        "pushedAt": "2015-08-21T19:19:34Z",
+        "stars": 12214,
+        "starsFormatted": "12K",
+        "forks": 1530,
+        "forksFormatted": "1.5K",
+        "openIssues": 435,
         "owner": {
             "username": "Dogfalo",
             "name": "Alvin Wang",
@@ -925,7 +925,7 @@
             "githubUrl": "https://github.com/Dogfalo",
             "url": "https://github.com/Dogfalo"
         },
-        "score": 11586
+        "score": 15274
     },
     {
         "repo": "dreyacosta/xpressio",
@@ -937,7 +937,7 @@
         "homepage": "http://xpress.io",
         "url": "http://xpress.io",
         "createdAt": "2013-02-10T18:07:25Z",
-        "updatedAt": "2015-05-16T17:28:38Z",
+        "updatedAt": "2015-08-05T09:56:29Z",
         "pushedAt": "2014-12-16T12:27:35Z",
         "stars": 30,
         "forks": 8,
@@ -951,26 +951,26 @@
             "githubUrl": "https://github.com/dreyacosta",
             "url": "http://dreyacosta.com"
         },
-        "score": 35,
+        "score": 27,
         "starsFormatted": 30,
         "forksFormatted": 8,
-        "refreshedAt": 1432583697606
+        "refreshedAt": 1440234161983
     },
     {
         "repo": "driftyco/ionic",
         "submittedAt": 1412629200000,
         "isValid": true,
         "name": "ionic",
-        "description": "Advanced HTML5 mobile development framework and SDK. Build incredible hybrid apps with web technologies you already know and love. Best friends with AngularJS.",
+        "description": "Advanced HTML5 mobile development framework and SDK. Build incredible mobile apps with web technologies you already know and love. Best friends with AngularJS.",
         "repoUrl": "https://github.com/driftyco/ionic",
         "homepage": "http://ionicframework.com/",
         "url": "http://ionicframework.com/",
         "createdAt": "2013-08-20T23:06:02Z",
-        "updatedAt": "2015-05-25T14:48:27Z",
-        "pushedAt": "2015-05-23T09:16:31Z",
-        "stars": 16778,
-        "forks": 2562,
-        "openIssues": 298,
+        "updatedAt": "2015-08-22T07:16:38Z",
+        "pushedAt": "2015-08-21T23:59:39Z",
+        "stars": 18749,
+        "forks": 3104,
+        "openIssues": 404,
         "owner": {
             "username": "driftyco",
             "name": "Ionic",
@@ -980,10 +980,10 @@
             "githubUrl": "https://github.com/driftyco",
             "url": "http://ionicframework.com/"
         },
-        "score": 21792,
-        "starsFormatted": "16K",
-        "forksFormatted": "2.6K",
-        "refreshedAt": 1432583697583
+        "score": 24932,
+        "starsFormatted": "18K",
+        "forksFormatted": "3.1K",
+        "refreshedAt": 1440234162329
     },
     {
         "repo": "ericam/susy",
@@ -995,11 +995,11 @@
         "homepage": "http://susy.oddbird.net/",
         "url": "http://susy.oddbird.net/",
         "createdAt": "2009-07-13T17:14:28Z",
-        "updatedAt": "2015-05-25T08:18:16Z",
-        "pushedAt": "2015-05-19T15:17:42Z",
-        "stars": 2611,
-        "forks": 296,
-        "openIssues": 76,
+        "updatedAt": "2015-08-21T11:25:36Z",
+        "pushedAt": "2015-07-22T19:44:10Z",
+        "stars": 2808,
+        "forks": 312,
+        "openIssues": 78,
         "owner": {
             "username": "ericam",
             "name": "Eric M. Suzanne",
@@ -1009,10 +1009,10 @@
             "githubUrl": "https://github.com/ericam",
             "url": "http://ericsuzanne.com/"
         },
-        "score": 3167,
-        "starsFormatted": "2.6K",
-        "forksFormatted": 296,
-        "refreshedAt": 1432583697590
+        "score": 3359,
+        "starsFormatted": "2.8K",
+        "forksFormatted": 312,
+        "refreshedAt": 1440234161992
     },
     {
         "repo": "fffunction/sassaparilla",
@@ -1024,10 +1024,10 @@
         "homepage": "http://sass.fffunction.co",
         "url": "http://sass.fffunction.co",
         "createdAt": "2013-02-02T15:57:06Z",
-        "updatedAt": "2015-05-18T11:48:07Z",
+        "updatedAt": "2015-08-19T10:42:49Z",
         "pushedAt": "2014-06-05T10:51:02Z",
-        "stars": 1069,
-        "forks": 176,
+        "stars": 1070,
+        "forks": 181,
         "openIssues": 3,
         "owner": {
             "username": "fffunction",
@@ -1038,15 +1038,15 @@
             "githubUrl": "https://github.com/fffunction",
             "url": "http://fffunction.co"
         },
-        "score": 1170,
+        "score": 1331,
         "starsFormatted": "1.1K",
-        "forksFormatted": 176,
-        "refreshedAt": 1432583697648
+        "forksFormatted": 181,
+        "refreshedAt": 1440234161975
     },
     {
         "repo": "FortAwesome/Font-Awesome",
         "submittedAt": 1432585912412,
-        "refreshedAt": 1432586146872,
+        "refreshedAt": 1440234158640,
         "isValid": true,
         "name": "Font-Awesome",
         "description": "The iconic font and CSS toolkit",
@@ -1054,13 +1054,13 @@
         "homepage": "http://fontawesome.io",
         "url": "http://fontawesome.io",
         "createdAt": "2012-02-17T14:19:43Z",
-        "updatedAt": "2015-05-25T20:33:38Z",
-        "pushedAt": "2015-05-25T11:37:22Z",
-        "stars": 33237,
-        "starsFormatted": "33K",
-        "forks": 5250,
-        "forksFormatted": "5.3K",
-        "openIssues": 2685,
+        "updatedAt": "2015-08-22T08:42:29Z",
+        "pushedAt": "2015-08-19T18:38:03Z",
+        "stars": 35439,
+        "starsFormatted": "35K",
+        "forks": 5788,
+        "forksFormatted": "5.8K",
+        "openIssues": 2892,
         "owner": {
             "username": "FortAwesome",
             "name": "Fort Awesome",
@@ -1070,7 +1070,7 @@
             "githubUrl": "https://github.com/FortAwesome",
             "url": "https://github.com/FortAwesome"
         },
-        "score": 43737
+        "score": 47015
     },
     {
         "repo": "ghinda/css-toggle-switch",
@@ -1082,29 +1082,29 @@
         "homepage": "http://ghinda.net/css-toggle-switch/",
         "url": "http://ghinda.net/css-toggle-switch/",
         "createdAt": "2011-10-21T13:42:38Z",
-        "updatedAt": "2015-05-14T01:25:55Z",
+        "updatedAt": "2015-08-20T08:19:00Z",
         "pushedAt": "2015-04-26T12:18:12Z",
-        "stars": 337,
-        "forks": 53,
+        "stars": 345,
+        "forks": 54,
         "openIssues": 1,
         "owner": {
             "username": "ghinda",
             "name": "Ionut Colceriu",
             "avatarUrl": "https://avatars.githubusercontent.com/u/325171?v=3",
             "gravatarId": "",
-            "homepage": "http://ghinda.net",
+            "homepage": "https://ghinda.net",
             "githubUrl": "https://github.com/ghinda",
-            "url": "http://ghinda.net"
+            "url": "https://ghinda.net"
         },
-        "score": 318,
-        "starsFormatted": 337,
-        "forksFormatted": 53,
-        "refreshedAt": 1432583697549
+        "score": 431,
+        "starsFormatted": 345,
+        "forksFormatted": 54,
+        "refreshedAt": 1440234161978
     },
     {
         "repo": "gillesbertaux/andy",
         "submittedAt": 1432585834900,
-        "refreshedAt": 1432586146867,
+        "refreshedAt": 1440234161989,
         "isValid": true,
         "name": "andy",
         "description": "Open-Source Collection of Useful SASS Mixins Library",
@@ -1112,12 +1112,12 @@
         "homepage": "http://gillesbertaux.com/andy",
         "url": "http://gillesbertaux.com/andy",
         "createdAt": "2014-10-25T20:13:02Z",
-        "updatedAt": "2015-05-18T16:29:03Z",
+        "updatedAt": "2015-08-19T14:05:35Z",
         "pushedAt": "2015-01-31T15:37:06Z",
-        "stars": 426,
-        "starsFormatted": 426,
-        "forks": 53,
-        "forksFormatted": 53,
+        "stars": 441,
+        "starsFormatted": 441,
+        "forks": 57,
+        "forksFormatted": 57,
         "openIssues": 3,
         "owner": {
             "username": "gillesbertaux",
@@ -1128,7 +1128,7 @@
             "githubUrl": "https://github.com/gillesbertaux",
             "url": "http://gillesbertaux.com"
         },
-        "score": 440
+        "score": 518
     },
     {
         "repo": "groundworkcss/groundwork",
@@ -1140,11 +1140,11 @@
         "homepage": "http://groundworkcss.github.io/",
         "url": "http://groundworkcss.github.io/",
         "createdAt": "2013-01-28T06:01:29Z",
-        "updatedAt": "2015-05-22T19:48:36Z",
-        "pushedAt": "2015-02-24T00:47:48Z",
-        "stars": 1582,
+        "updatedAt": "2015-08-22T08:01:44Z",
+        "pushedAt": "2015-06-12T02:34:50Z",
+        "stars": 1612,
         "forks": 354,
-        "openIssues": 10,
+        "openIssues": 14,
         "owner": {
             "username": "groundworkcss",
             "name": "Groundwork CSS",
@@ -1154,10 +1154,10 @@
             "githubUrl": "https://github.com/groundworkcss",
             "url": "http://groundworkcss.github.com"
         },
-        "score": 2125,
+        "score": 2317,
         "starsFormatted": "1.6K",
         "forksFormatted": 354,
-        "refreshedAt": 1432583697692
+        "refreshedAt": 1440234161973
     },
     {
         "repo": "GumbyFramework/Gumby",
@@ -1169,11 +1169,11 @@
         "homepage": "http://gumbyframework.com/",
         "url": "http://gumbyframework.com/",
         "createdAt": "2013-03-04T15:05:00Z",
-        "updatedAt": "2015-05-25T19:42:35Z",
-        "pushedAt": "2015-05-21T18:46:40Z",
-        "stars": 2889,
-        "forks": 503,
-        "openIssues": 42,
+        "updatedAt": "2015-08-21T03:37:09Z",
+        "pushedAt": "2015-06-11T00:58:53Z",
+        "stars": 2921,
+        "forks": 519,
+        "openIssues": 43,
         "owner": {
             "username": "GumbyFramework",
             "name": "Gumby Framework",
@@ -1183,10 +1183,10 @@
             "githubUrl": "https://github.com/GumbyFramework",
             "url": "http://www.gumbyframework.com"
         },
-        "score": 3895,
+        "score": 3844,
         "starsFormatted": "2.9K",
-        "forksFormatted": 503,
-        "refreshedAt": 1432583697642
+        "forksFormatted": 519,
+        "refreshedAt": 1440234162317
     },
     {
         "repo": "h5bp/Effeckt.css",
@@ -1198,11 +1198,11 @@
         "homepage": "http://h5bp.github.io/Effeckt.css",
         "url": "http://h5bp.github.io/Effeckt.css",
         "createdAt": "2013-07-02T19:57:06Z",
-        "updatedAt": "2015-05-25T08:36:20Z",
-        "pushedAt": "2015-05-25T13:55:36Z",
-        "stars": 9593,
-        "forks": 1396,
-        "openIssues": 26,
+        "updatedAt": "2015-08-22T03:25:01Z",
+        "pushedAt": "2015-06-16T04:21:13Z",
+        "stars": 9782,
+        "forks": 1411,
+        "openIssues": 28,
         "owner": {
             "username": "h5bp",
             "name": "H5BP",
@@ -1212,10 +1212,10 @@
             "githubUrl": "https://github.com/h5bp",
             "url": "https://h5bp.github.io"
         },
-        "score": 12248,
-        "starsFormatted": "9.6K",
+        "score": 12540,
+        "starsFormatted": "9.8K",
         "forksFormatted": "1.4K",
-        "refreshedAt": 1432583697645
+        "refreshedAt": 1440234162336
     },
     {
         "repo": "hakimel/Meny",
@@ -1227,10 +1227,10 @@
         "homepage": "http://lab.hakim.se/meny/",
         "url": "http://lab.hakim.se/meny/",
         "createdAt": "2012-08-05T18:28:20Z",
-        "updatedAt": "2015-05-24T08:33:35Z",
+        "updatedAt": "2015-08-20T15:02:14Z",
         "pushedAt": "2015-01-21T08:08:24Z",
-        "stars": 2044,
-        "forks": 470,
+        "stars": 2083,
+        "forks": 474,
         "openIssues": 9,
         "owner": {
             "username": "hakimel",
@@ -1241,10 +1241,10 @@
             "githubUrl": "https://github.com/hakimel",
             "url": "http://hakim.se"
         },
-        "score": 2879,
-        "starsFormatted": "2.0K",
-        "forksFormatted": 470,
-        "refreshedAt": 1432583697703
+        "score": 2903,
+        "starsFormatted": "2.1K",
+        "forksFormatted": 474,
+        "refreshedAt": 1440234159219
     },
     {
         "repo": "heygrady/scss-blend-modes",
@@ -1256,10 +1256,10 @@
         "homepage": null,
         "url": "https://github.com/heygrady/scss-blend-modes",
         "createdAt": "2011-12-26T09:23:18Z",
-        "updatedAt": "2015-05-17T23:45:19Z",
+        "updatedAt": "2015-08-18T03:32:36Z",
         "pushedAt": "2015-03-31T17:43:00Z",
-        "stars": 800,
-        "forks": 132,
+        "stars": 798,
+        "forks": 131,
         "openIssues": 3,
         "owner": {
             "username": "heygrady",
@@ -1270,10 +1270,10 @@
             "githubUrl": "https://github.com/heygrady",
             "url": "http://heygrady.com"
         },
-        "score": 863,
-        "starsFormatted": 800,
-        "forksFormatted": 132,
-        "refreshedAt": 1432583697623
+        "score": 952,
+        "starsFormatted": 798,
+        "forksFormatted": 131,
+        "refreshedAt": 1440234159733
     },
     {
         "repo": "Huddle/PhantomCSS",
@@ -1285,24 +1285,24 @@
         "homepage": null,
         "url": "https://github.com/Huddle/PhantomCSS",
         "createdAt": "2012-11-06T17:50:24Z",
-        "updatedAt": "2015-05-25T20:04:53Z",
-        "pushedAt": "2015-05-05T13:37:06Z",
-        "stars": 2842,
-        "forks": 173,
-        "openIssues": 12,
+        "updatedAt": "2015-08-21T13:37:42Z",
+        "pushedAt": "2015-08-12T09:40:52Z",
+        "stars": 3081,
+        "forks": 180,
+        "openIssues": 17,
         "owner": {
             "username": "Huddle",
-            "name": "",
+            "name": null,
             "avatarUrl": "https://avatars.githubusercontent.com/u/508201?v=3",
             "gravatarId": "",
             "homepage": "http://www.huddle.com/developers/",
             "githubUrl": "https://github.com/Huddle",
             "url": "http://www.huddle.com/developers/"
         },
-        "score": 3188,
-        "starsFormatted": "2.8K",
-        "forksFormatted": 173,
-        "refreshedAt": 1432583697697
+        "score": 3375,
+        "starsFormatted": "3.1K",
+        "forksFormatted": 180,
+        "refreshedAt": 1440234162308
     },
     {
         "repo": "IcaliaLabs/furatto",
@@ -1314,11 +1314,11 @@
         "homepage": null,
         "url": "https://github.com/IcaliaLabs/furatto",
         "createdAt": "2013-07-12T21:32:07Z",
-        "updatedAt": "2015-05-20T03:48:45Z",
-        "pushedAt": "2015-04-17T22:08:56Z",
-        "stars": 847,
-        "forks": 128,
-        "openIssues": 13,
+        "updatedAt": "2015-08-14T11:00:50Z",
+        "pushedAt": "2015-08-21T22:16:30Z",
+        "stars": 858,
+        "forks": 130,
+        "openIssues": 16,
         "owner": {
             "username": "IcaliaLabs",
             "name": "Icalia Labs",
@@ -1328,10 +1328,10 @@
             "githubUrl": "https://github.com/IcaliaLabs",
             "url": "http://icalialabs.com/"
         },
-        "score": 952,
-        "starsFormatted": 847,
-        "forksFormatted": 128,
-        "refreshedAt": 1432583697743
+        "score": 905,
+        "starsFormatted": 858,
+        "forksFormatted": 130,
+        "refreshedAt": 1440234159255
     },
     {
         "repo": "imperavi/kube",
@@ -1343,11 +1343,11 @@
         "homepage": null,
         "url": "https://github.com/imperavi/kube",
         "createdAt": "2014-01-10T23:38:36Z",
-        "updatedAt": "2015-05-25T16:31:42Z",
-        "pushedAt": "2015-02-01T15:01:11Z",
-        "stars": 375,
-        "forks": 96,
-        "openIssues": 28,
+        "updatedAt": "2015-08-22T07:29:44Z",
+        "pushedAt": "2015-06-28T02:29:19Z",
+        "stars": 445,
+        "forks": 120,
+        "openIssues": 32,
         "owner": {
             "username": "imperavi",
             "name": "imperavi",
@@ -1357,10 +1357,10 @@
             "githubUrl": "https://github.com/imperavi",
             "url": "http://imperavi.com"
         },
-        "score": 565,
-        "starsFormatted": 375,
-        "forksFormatted": 96,
-        "refreshedAt": 1432583697733
+        "score": 684,
+        "starsFormatted": 445,
+        "forksFormatted": 120,
+        "refreshedAt": 1440234161395
     },
     {
         "repo": "jalxob/cool-kitten",
@@ -1372,10 +1372,10 @@
         "homepage": null,
         "url": "https://github.com/jalxob/cool-kitten",
         "createdAt": "2013-02-04T16:58:41Z",
-        "updatedAt": "2015-05-24T00:17:08Z",
+        "updatedAt": "2015-08-01T18:55:36Z",
         "pushedAt": "2013-04-11T17:28:13Z",
-        "stars": 1476,
-        "forks": 566,
+        "stars": 1481,
+        "forks": 558,
         "openIssues": 44,
         "owner": {
             "username": "jalxob",
@@ -1383,12 +1383,13 @@
             "gravatarId": "",
             "githubUrl": "https://github.com/jalxob",
             "url": "https://github.com/jalxob",
-            "homepage": null
+            "homepage": null,
+            "name": null
         },
-        "score": 2495,
+        "score": 1314,
         "starsFormatted": "1.5K",
-        "forksFormatted": 566,
-        "refreshedAt": 1432583697643
+        "forksFormatted": 558,
+        "refreshedAt": 1440234159779
     },
     {
         "repo": "jenius/axis",
@@ -1400,11 +1401,11 @@
         "homepage": "http://axis.netlify.com",
         "url": "http://axis.netlify.com",
         "createdAt": "2012-11-07T04:25:57Z",
-        "updatedAt": "2015-05-19T19:31:05Z",
-        "pushedAt": "2015-05-25T04:34:25Z",
-        "stars": 215,
-        "forks": 36,
-        "openIssues": 7,
+        "updatedAt": "2015-08-17T06:00:45Z",
+        "pushedAt": "2015-08-21T21:09:51Z",
+        "stars": 231,
+        "forks": 37,
+        "openIssues": 5,
         "owner": {
             "username": "jenius",
             "name": "Jeff Escalante",
@@ -1414,10 +1415,10 @@
             "githubUrl": "https://github.com/jenius",
             "url": "http://jenius.me"
         },
-        "score": 245,
-        "starsFormatted": 215,
-        "forksFormatted": 36,
-        "refreshedAt": 1432583697695
+        "score": 267,
+        "starsFormatted": 231,
+        "forksFormatted": 37,
+        "refreshedAt": 1440234162314
     },
     {
         "repo": "jenius/roots",
@@ -1429,11 +1430,11 @@
         "homepage": "http://roots.cx",
         "url": "http://roots.cx",
         "createdAt": "2012-09-18T18:42:13Z",
-        "updatedAt": "2015-05-19T19:27:14Z",
-        "pushedAt": "2015-04-29T14:48:04Z",
-        "stars": 1172,
-        "forks": 100,
-        "openIssues": 16,
+        "updatedAt": "2015-08-21T15:53:53Z",
+        "pushedAt": "2015-08-12T09:09:16Z",
+        "stars": 1223,
+        "forks": 107,
+        "openIssues": 21,
         "owner": {
             "username": "jenius",
             "name": "Jeff Escalante",
@@ -1443,10 +1444,10 @@
             "githubUrl": "https://github.com/jenius",
             "url": "http://jenius.me"
         },
-        "score": 1174,
+        "score": 1412,
         "starsFormatted": "1.2K",
-        "forksFormatted": 100,
-        "refreshedAt": 1432583697659
+        "forksFormatted": 107,
+        "refreshedAt": 1440234161393
     },
     {
         "repo": "jenius/rupture",
@@ -1458,10 +1459,10 @@
         "homepage": "http://jenius.github.io/rupture",
         "url": "http://jenius.github.io/rupture",
         "createdAt": "2013-12-02T19:10:32Z",
-        "updatedAt": "2015-05-25T15:56:09Z",
+        "updatedAt": "2015-08-20T06:58:35Z",
         "pushedAt": "2015-01-14T09:59:49Z",
-        "stars": 282,
-        "forks": 18,
+        "stars": 346,
+        "forks": 23,
         "openIssues": 5,
         "owner": {
             "username": "jenius",
@@ -1472,10 +1473,10 @@
             "githubUrl": "https://github.com/jenius",
             "url": "http://jenius.me"
         },
-        "score": 316,
-        "starsFormatted": 282,
-        "forksFormatted": 18,
-        "refreshedAt": 1432583697694
+        "score": 372,
+        "starsFormatted": 346,
+        "forksFormatted": 23,
+        "refreshedAt": 1440234162306
     },
     {
         "repo": "JohnAlbin/zen-grids",
@@ -1487,11 +1488,11 @@
         "homepage": "http://next.zengrids.com",
         "url": "http://next.zengrids.com",
         "createdAt": "2011-12-21T16:00:44Z",
-        "updatedAt": "2015-05-05T07:50:44Z",
+        "updatedAt": "2015-08-12T09:44:04Z",
         "pushedAt": "2015-05-05T07:50:52Z",
-        "stars": 224,
-        "forks": 41,
-        "openIssues": 19,
+        "stars": 230,
+        "forks": 42,
+        "openIssues": 21,
         "owner": {
             "username": "JohnAlbin",
             "name": "John Albin Wilkins",
@@ -1501,10 +1502,10 @@
             "githubUrl": "https://github.com/JohnAlbin",
             "url": "http://john.albin.net"
         },
-        "score": 155,
-        "starsFormatted": 224,
-        "forksFormatted": 41,
-        "refreshedAt": 1432583697632
+        "score": 238,
+        "starsFormatted": 230,
+        "forksFormatted": 42,
+        "refreshedAt": 1440234161386
     },
     {
         "repo": "jonikorpi/Frameless",
@@ -1516,10 +1517,10 @@
         "homepage": "http://framelessgrid.com/",
         "url": "http://framelessgrid.com/",
         "createdAt": "2011-08-27T14:12:33Z",
-        "updatedAt": "2015-05-25T18:50:22Z",
-        "pushedAt": "2012-06-08T10:34:37Z",
-        "stars": 1231,
-        "forks": 262,
+        "updatedAt": "2015-08-11T22:10:18Z",
+        "pushedAt": "2015-08-10T20:55:31Z",
+        "stars": 1241,
+        "forks": 270,
         "openIssues": 9,
         "owner": {
             "username": "jonikorpi",
@@ -1530,10 +1531,10 @@
             "githubUrl": "https://github.com/jonikorpi",
             "url": "http://jonikorpi.com"
         },
-        "score": 1753,
+        "score": 1335,
         "starsFormatted": "1.2K",
-        "forksFormatted": 262,
-        "refreshedAt": 1432583697625
+        "forksFormatted": 270,
+        "refreshedAt": 1440234161398
     },
     {
         "repo": "joshuaclayton/blueprint-css",
@@ -1545,10 +1546,10 @@
         "homepage": "http://www.blueprintcss.org",
         "url": "http://www.blueprintcss.org",
         "createdAt": "2008-08-07T12:58:22Z",
-        "updatedAt": "2015-05-24T16:45:39Z",
+        "updatedAt": "2015-08-21T18:10:48Z",
         "pushedAt": "2011-09-20T15:40:33Z",
-        "stars": 5376,
-        "forks": 598,
+        "stars": 5398,
+        "forks": 609,
         "openIssues": 9,
         "owner": {
             "username": "joshuaclayton",
@@ -1559,10 +1560,10 @@
             "githubUrl": "https://github.com/joshuaclayton",
             "url": "http://joshuaclayton.me"
         },
-        "score": 6394,
+        "score": 6523,
         "starsFormatted": "5.4K",
-        "forksFormatted": 598,
-        "refreshedAt": 1432583697647
+        "forksFormatted": 609,
+        "refreshedAt": 1440234159217
     },
     {
         "repo": "joshuagatcke/HTML-KickStart",
@@ -1574,23 +1575,24 @@
         "homepage": "http://www.99lime.com",
         "url": "http://www.99lime.com",
         "createdAt": "2012-02-06T19:36:19Z",
-        "updatedAt": "2015-05-21T13:44:39Z",
+        "updatedAt": "2015-08-21T15:04:57Z",
         "pushedAt": "2015-04-12T11:48:54Z",
-        "stars": 1158,
-        "forks": 245,
-        "openIssues": 20,
+        "stars": 1174,
+        "forks": 243,
+        "openIssues": 24,
         "owner": {
             "username": "joshuagatcke",
             "avatarUrl": "https://avatars.githubusercontent.com/u/1387964?v=3",
             "gravatarId": "",
             "githubUrl": "https://github.com/joshuagatcke",
             "url": "https://github.com/joshuagatcke",
-            "homepage": null
+            "homepage": null,
+            "name": null
         },
-        "score": 1479,
+        "score": 1631,
         "starsFormatted": "1.2K",
-        "forksFormatted": 245,
-        "refreshedAt": 1432583697723
+        "forksFormatted": 243,
+        "refreshedAt": 1440234161377
     },
     {
         "repo": "joshuakim/jQuery-Mobile-Theme-SASS",
@@ -1619,7 +1621,7 @@
         "score": 3,
         "starsFormatted": 2,
         "forksFormatted": 2,
-        "refreshedAt": 1432583697631
+        "refreshedAt": 1440234160865
     },
     {
         "repo": "jslegers/cascadeframework",
@@ -1631,10 +1633,10 @@
         "homepage": null,
         "url": "https://github.com/jslegers/cascadeframework",
         "createdAt": "2013-02-22T21:10:18Z",
-        "updatedAt": "2015-05-20T16:56:41Z",
+        "updatedAt": "2015-08-20T05:07:53Z",
         "pushedAt": "2015-01-28T17:02:08Z",
-        "stars": 190,
-        "forks": 43,
+        "stars": 204,
+        "forks": 45,
         "openIssues": 6,
         "owner": {
             "username": "jslegers",
@@ -1645,10 +1647,10 @@
             "githubUrl": "https://github.com/jslegers",
             "url": "http://www.johnslegers.com/"
         },
-        "score": 242,
-        "starsFormatted": 190,
-        "forksFormatted": 43,
-        "refreshedAt": 1432583697670
+        "score": 279,
+        "starsFormatted": 204,
+        "forksFormatted": 45,
+        "refreshedAt": 1440234160892
     },
     {
         "repo": "jslegers/cascadeframeworklight",
@@ -1660,9 +1662,9 @@
         "homepage": null,
         "url": "https://github.com/jslegers/cascadeframeworklight",
         "createdAt": "2013-07-05T19:30:35Z",
-        "updatedAt": "2015-01-09T15:45:17Z",
+        "updatedAt": "2015-08-15T14:28:52Z",
         "pushedAt": "2014-03-30T01:22:11Z",
-        "stars": 14,
+        "stars": 16,
         "forks": 4,
         "openIssues": 1,
         "owner": {
@@ -1674,10 +1676,10 @@
             "githubUrl": "https://github.com/jslegers",
             "url": "http://www.johnslegers.com/"
         },
-        "score": 11,
-        "starsFormatted": 14,
+        "score": 20,
+        "starsFormatted": 16,
         "forksFormatted": 4,
-        "refreshedAt": 1432583697640
+        "refreshedAt": 1440234160885
     },
     {
         "repo": "juanghurtado/flaminwork",
@@ -1689,9 +1691,9 @@
         "homepage": "http://flaminwork.com/",
         "url": "http://flaminwork.com/",
         "createdAt": "2011-02-10T09:24:06Z",
-        "updatedAt": "2014-04-27T10:11:31Z",
+        "updatedAt": "2015-06-22T17:49:06Z",
         "pushedAt": "2011-06-29T07:36:01Z",
-        "stars": 5,
+        "stars": 6,
         "forks": 2,
         "openIssues": 0,
         "owner": {
@@ -1703,15 +1705,15 @@
             "githubUrl": "https://github.com/juanghurtado",
             "url": "http://juanghurtado.com/"
         },
-        "score": 4,
-        "starsFormatted": 5,
+        "score": 5,
+        "starsFormatted": 6,
         "forksFormatted": 2,
-        "refreshedAt": 1432583697662
+        "refreshedAt": 1440234159279
     },
     {
         "repo": "justinhough/Centurion",
         "submittedAt": 1432585954389,
-        "refreshedAt": 1432586146875,
+        "refreshedAt": 1440234160874,
         "isValid": true,
         "name": "Centurion",
         "description": "Centurion is a web-based framework for rapid prototyping and building larger web projects.",
@@ -1719,12 +1721,12 @@
         "homepage": "http://www.centurionframework.com",
         "url": "http://www.centurionframework.com",
         "createdAt": "2011-09-28T04:50:38Z",
-        "updatedAt": "2015-05-20T09:17:37Z",
-        "pushedAt": "2015-05-21T05:57:10Z",
-        "stars": 318,
-        "starsFormatted": 318,
-        "forks": 69,
-        "forksFormatted": 69,
+        "updatedAt": "2015-08-14T05:43:35Z",
+        "pushedAt": "2015-08-06T06:04:54Z",
+        "stars": 320,
+        "starsFormatted": 320,
+        "forks": 68,
+        "forksFormatted": 68,
         "openIssues": 1,
         "owner": {
             "username": "justinhough",
@@ -1735,7 +1737,7 @@
             "githubUrl": "https://github.com/justinhough",
             "url": "http://www.justinhough.com"
         },
-        "score": 396
+        "score": 367
     },
     {
         "repo": "kaelig/hidpi",
@@ -1747,9 +1749,9 @@
         "homepage": "http://www.kaelig.fr/hidpi/examples/",
         "url": "http://www.kaelig.fr/hidpi/examples/",
         "createdAt": "2012-10-26T12:28:56Z",
-        "updatedAt": "2015-05-22T12:20:22Z",
+        "updatedAt": "2015-08-01T13:32:11Z",
         "pushedAt": "2013-12-17T11:05:55Z",
-        "stars": 239,
+        "stars": 243,
         "forks": 12,
         "openIssues": 0,
         "owner": {
@@ -1761,10 +1763,10 @@
             "githubUrl": "https://github.com/kaelig",
             "url": "http://www.kaelig.fr"
         },
-        "score": 242,
-        "starsFormatted": 239,
+        "score": 133,
+        "starsFormatted": 243,
         "forksFormatted": 12,
-        "refreshedAt": 1432583697637
+        "refreshedAt": 1440234158622
     },
     {
         "repo": "kanthvallampati/IVORY",
@@ -1776,24 +1778,24 @@
         "homepage": "http://weice.in/ivory/",
         "url": "http://weice.in/ivory/",
         "createdAt": "2012-11-17T10:29:00Z",
-        "updatedAt": "2015-05-19T21:52:11Z",
+        "updatedAt": "2015-07-10T10:15:13Z",
         "pushedAt": "2015-02-18T11:05:34Z",
-        "stars": 204,
-        "forks": 39,
+        "stars": 203,
+        "forks": 40,
         "openIssues": 2,
         "owner": {
             "username": "kanthvallampati",
             "name": "Lakshmikanth Vallampati",
             "avatarUrl": "https://avatars.githubusercontent.com/u/2324787?v=3",
             "gravatarId": "",
-            "homepage": "http://www.weice.in",
+            "homepage": "http://www.esselabs.com",
             "githubUrl": "https://github.com/kanthvallampati",
-            "url": "http://www.weice.in"
+            "url": "http://www.esselabs.com"
         },
-        "score": 241,
-        "starsFormatted": 204,
-        "forksFormatted": 39,
-        "refreshedAt": 1432583697688
+        "score": 141,
+        "starsFormatted": 203,
+        "forksFormatted": 40,
+        "refreshedAt": 1440234159705
     },
     {
         "repo": "Kilian/sencss",
@@ -1805,10 +1807,10 @@
         "homepage": "http://sencss.kilianvalkhof.com/",
         "url": "http://sencss.kilianvalkhof.com/",
         "createdAt": "2009-05-12T13:45:17Z",
-        "updatedAt": "2015-04-02T03:26:20Z",
+        "updatedAt": "2015-08-08T10:21:44Z",
         "pushedAt": "2010-07-15T17:43:43Z",
         "stars": 53,
-        "forks": 4,
+        "forks": 5,
         "openIssues": 1,
         "owner": {
             "username": "Kilian",
@@ -1819,10 +1821,10 @@
             "githubUrl": "https://github.com/Kilian",
             "url": "http://kilianvalkhof.com"
         },
-        "score": 30,
+        "score": 41,
         "starsFormatted": 53,
-        "forksFormatted": 4,
-        "refreshedAt": 1432583697676
+        "forksFormatted": 5,
+        "refreshedAt": 1440234160861
     },
     {
         "repo": "kurbmedia/facades",
@@ -1851,7 +1853,7 @@
         "score": 1,
         "starsFormatted": 3,
         "forksFormatted": 0,
-        "refreshedAt": 1432583697626
+        "refreshedAt": 1440234160883
     },
     {
         "repo": "lmc-eu/emerald",
@@ -1863,8 +1865,8 @@
         "homepage": "http://lmc-eu.github.io/emerald/",
         "url": "http://lmc-eu.github.io/emerald/",
         "createdAt": "2013-07-26T11:35:30Z",
-        "updatedAt": "2015-01-22T18:45:13Z",
-        "pushedAt": "2015-05-03T18:10:55Z",
+        "updatedAt": "2015-07-14T11:01:41Z",
+        "pushedAt": "2015-07-24T12:15:25Z",
         "stars": 31,
         "forks": 4,
         "openIssues": 4,
@@ -1880,7 +1882,7 @@
         "score": 19,
         "starsFormatted": 31,
         "forksFormatted": 4,
-        "refreshedAt": 1432583697651
+        "refreshedAt": 1440234160858
     },
     {
         "repo": "madebysource/lesshat",
@@ -1892,11 +1894,11 @@
         "homepage": "http://lesshat.com",
         "url": "http://lesshat.com",
         "createdAt": "2012-08-03T12:09:08Z",
-        "updatedAt": "2015-05-22T21:37:20Z",
-        "pushedAt": "2015-04-23T15:56:33Z",
-        "stars": 1989,
-        "forks": 272,
-        "openIssues": 56,
+        "updatedAt": "2015-08-22T03:45:43Z",
+        "pushedAt": "2015-06-12T01:08:35Z",
+        "stars": 2060,
+        "forks": 283,
+        "openIssues": 63,
         "owner": {
             "username": "madebysource",
             "name": "Source",
@@ -1906,10 +1908,10 @@
             "githubUrl": "https://github.com/madebysource",
             "url": "http://madebysource.com"
         },
-        "score": 2355,
-        "refreshedAt": 1432583697650,
-        "starsFormatted": "2.0K",
-        "forksFormatted": 272
+        "score": 2612,
+        "refreshedAt": 1440234158631,
+        "starsFormatted": "2.1K",
+        "forksFormatted": 283
     },
     {
         "repo": "malarkey/Rock-Hammer",
@@ -1921,10 +1923,10 @@
         "homepage": null,
         "url": "https://github.com/malarkey/Rock-Hammer",
         "createdAt": "2013-03-15T11:19:03Z",
-        "updatedAt": "2015-05-21T20:01:05Z",
+        "updatedAt": "2015-08-19T19:36:01Z",
         "pushedAt": "2014-09-29T07:29:16Z",
-        "stars": 502,
-        "forks": 69,
+        "stars": 508,
+        "forks": 70,
         "openIssues": 6,
         "owner": {
             "username": "malarkey",
@@ -1935,10 +1937,10 @@
             "githubUrl": "https://github.com/malarkey",
             "url": "http://stuffandnonsense.co.uk"
         },
-        "score": 578,
-        "refreshedAt": 1432583697806,
-        "starsFormatted": 502,
-        "forksFormatted": 69
+        "score": 608,
+        "refreshedAt": 1440234160842,
+        "starsFormatted": 508,
+        "forksFormatted": 70
     },
     {
         "repo": "mateuszkocz/3l",
@@ -1950,10 +1952,10 @@
         "homepage": null,
         "url": "https://github.com/mateuszkocz/3l",
         "createdAt": "2012-03-21T23:27:55Z",
-        "updatedAt": "2015-04-29T15:21:16Z",
+        "updatedAt": "2015-07-28T14:17:31Z",
         "pushedAt": "2014-02-22T16:54:33Z",
-        "stars": 143,
-        "forks": 19,
+        "stars": 146,
+        "forks": 20,
         "openIssues": 3,
         "owner": {
             "username": "mateuszkocz",
@@ -1964,10 +1966,10 @@
             "githubUrl": "https://github.com/mateuszkocz",
             "url": "http://radiatingstar.com"
         },
-        "score": 90,
-        "refreshedAt": 1432583697683,
-        "starsFormatted": 143,
-        "forksFormatted": 19
+        "score": 93,
+        "refreshedAt": 1440234163723,
+        "starsFormatted": 146,
+        "forksFormatted": 20
     },
     {
         "repo": "matthewhartman/base",
@@ -1976,14 +1978,14 @@
         "name": "base",
         "description": "Base is a super simple, responsive framework, built to work on all devices big, small and in-between.",
         "repoUrl": "https://github.com/matthewhartman/base",
-        "homepage": "http://matthewhartman.github.io/base/",
-        "url": "http://matthewhartman.github.io/base/",
+        "homepage": "http://getbase.org",
+        "url": "http://getbase.org",
         "createdAt": "2011-12-30T05:13:13Z",
-        "updatedAt": "2015-05-24T20:13:47Z",
-        "pushedAt": "2015-05-25T12:37:30Z",
-        "stars": 569,
-        "forks": 78,
-        "openIssues": 1,
+        "updatedAt": "2015-08-21T09:28:48Z",
+        "pushedAt": "2015-08-19T11:16:06Z",
+        "stars": 604,
+        "forks": 84,
+        "openIssues": 0,
         "owner": {
             "username": "matthewhartman",
             "name": "Matthew Hartman",
@@ -1993,10 +1995,10 @@
             "githubUrl": "https://github.com/matthewhartman",
             "url": "http://www.matthewhartman.com.au"
         },
-        "score": 708,
-        "refreshedAt": 1432583697657,
-        "starsFormatted": 569,
-        "forksFormatted": 78
+        "score": 754,
+        "refreshedAt": 1440234163752,
+        "starsFormatted": 604,
+        "forksFormatted": 84
     },
     {
         "repo": "maxmert/maxmertkit",
@@ -2008,11 +2010,11 @@
         "homepage": "http://maxmert.com",
         "url": "http://maxmert.com",
         "createdAt": "2012-11-21T08:22:22Z",
-        "updatedAt": "2015-05-24T05:37:40Z",
-        "pushedAt": "2015-05-11T09:36:58Z",
-        "stars": 529,
-        "forks": 91,
-        "openIssues": 18,
+        "updatedAt": "2015-08-20T19:01:48Z",
+        "pushedAt": "2015-05-30T11:48:42Z",
+        "stars": 532,
+        "forks": 94,
+        "openIssues": 21,
         "owner": {
             "username": "maxmert",
             "name": "Maxim Vetrenko",
@@ -2022,10 +2024,10 @@
             "githubUrl": "https://github.com/maxmert",
             "url": "http://maxmert.com"
         },
-        "score": 683,
-        "refreshedAt": 1432583697774,
-        "starsFormatted": 529,
-        "forksFormatted": 91
+        "score": 692,
+        "refreshedAt": 1440234163193,
+        "starsFormatted": 532,
+        "forksFormatted": 94
     },
     {
         "repo": "mdo/preboot",
@@ -2037,11 +2039,11 @@
         "homepage": "http://getpreboot.com",
         "url": "http://getpreboot.com",
         "createdAt": "2011-03-20T05:51:23Z",
-        "updatedAt": "2015-05-24T18:51:27Z",
-        "pushedAt": "2015-04-29T12:53:17Z",
-        "stars": 1686,
-        "forks": 197,
-        "openIssues": 13,
+        "updatedAt": "2015-08-21T08:10:04Z",
+        "pushedAt": "2015-07-02T06:53:33Z",
+        "stars": 1710,
+        "forks": 195,
+        "openIssues": 7,
         "owner": {
             "username": "mdo",
             "name": "Mark Otto",
@@ -2051,10 +2053,10 @@
             "githubUrl": "https://github.com/mdo",
             "url": "https://www.gittip.com/mdo/"
         },
-        "score": 2028,
-        "refreshedAt": 1432583697652,
+        "score": 2049,
+        "refreshedAt": 1440234159266,
         "starsFormatted": "1.7K",
-        "forksFormatted": 197
+        "forksFormatted": 195
     },
     {
         "repo": "MikeBallan/Amazium",
@@ -2081,7 +2083,7 @@
             "url": "http://www.mikeballan.co.uk"
         },
         "score": 0,
-        "refreshedAt": 1432583697634,
+        "refreshedAt": 1440234163225,
         "starsFormatted": 0,
         "forksFormatted": 0
     },
@@ -2095,11 +2097,11 @@
         "homepage": "http://jeet.gs",
         "url": "http://jeet.gs",
         "createdAt": "2012-12-11T21:01:06Z",
-        "updatedAt": "2015-05-25T19:34:47Z",
-        "pushedAt": "2015-05-08T07:50:38Z",
-        "stars": 2217,
-        "forks": 226,
-        "openIssues": 12,
+        "updatedAt": "2015-08-22T06:45:45Z",
+        "pushedAt": "2015-08-12T14:35:57Z",
+        "stars": 2398,
+        "forks": 240,
+        "openIssues": 17,
         "owner": {
             "username": "mojotech",
             "name": "MojoTech",
@@ -2109,10 +2111,10 @@
             "githubUrl": "https://github.com/mojotech",
             "url": "http://www.mojotech.com"
         },
-        "score": 2669,
-        "refreshedAt": 1432583697639,
-        "starsFormatted": "2.2K",
-        "forksFormatted": 226
+        "score": 2872,
+        "refreshedAt": 1440234163728,
+        "starsFormatted": "2.4K",
+        "forksFormatted": 240
     },
     {
         "repo": "mourner/dead-simple-grid",
@@ -2124,10 +2126,10 @@
         "homepage": "http://mourner.github.com/dead-simple-grid",
         "url": "http://mourner.github.com/dead-simple-grid",
         "createdAt": "2012-11-01T15:04:36Z",
-        "updatedAt": "2015-05-25T08:07:42Z",
+        "updatedAt": "2015-08-20T09:45:39Z",
         "pushedAt": "2012-11-05T14:06:22Z",
-        "stars": 368,
-        "forks": 47,
+        "stars": 386,
+        "forks": 50,
         "openIssues": 0,
         "owner": {
             "username": "mourner",
@@ -2138,10 +2140,10 @@
             "githubUrl": "https://github.com/mourner",
             "url": "http://agafonkin.com/en"
         },
-        "score": 456,
-        "refreshedAt": 1432583699747,
-        "starsFormatted": 368,
-        "forksFormatted": 47
+        "score": 463,
+        "refreshedAt": 1440234163179,
+        "starsFormatted": 386,
+        "forksFormatted": 50
     },
     {
         "repo": "mrrocks/simpletastic",
@@ -2163,12 +2165,12 @@
             "name": "Fran Pérez",
             "avatarUrl": "https://avatars.githubusercontent.com/u/1820716?v=3",
             "gravatarId": "",
-            "homepage": null,
+            "homepage": "http://franperez.me",
             "githubUrl": "https://github.com/mrrocks",
-            "url": "https://github.com/mrrocks"
+            "url": "http://franperez.me"
         },
         "score": 19,
-        "refreshedAt": 1432583698628,
+        "refreshedAt": 1440234163741,
         "starsFormatted": 33,
         "forksFormatted": 3
     },
@@ -2182,10 +2184,10 @@
         "homepage": "http://960.gs",
         "url": "http://960.gs",
         "createdAt": "2009-12-19T22:59:29Z",
-        "updatedAt": "2015-05-25T03:03:59Z",
+        "updatedAt": "2015-08-17T13:47:47Z",
         "pushedAt": "2014-09-19T19:14:48Z",
-        "stars": 3027,
-        "forks": 502,
+        "stars": 3070,
+        "forks": 515,
         "openIssues": 2,
         "owner": {
             "username": "nathansmith",
@@ -2196,10 +2198,10 @@
             "githubUrl": "https://github.com/nathansmith",
             "url": "http://sonspring.com"
         },
-        "score": 3962,
-        "refreshedAt": 1432583697800,
-        "starsFormatted": "3.0K",
-        "forksFormatted": 502
+        "score": 3628,
+        "refreshedAt": 1440234163717,
+        "starsFormatted": "3.1K",
+        "forksFormatted": 515
     },
     {
         "repo": "nathansmith/formalize",
@@ -2211,11 +2213,11 @@
         "homepage": "http://formalize.me",
         "url": "http://formalize.me",
         "createdAt": "2010-09-14T06:49:11Z",
-        "updatedAt": "2015-05-24T07:34:24Z",
+        "updatedAt": "2015-08-22T07:09:16Z",
         "pushedAt": "2014-02-26T19:46:16Z",
-        "stars": 1320,
-        "forks": 130,
-        "openIssues": 7,
+        "stars": 1326,
+        "forks": 132,
+        "openIssues": 8,
         "owner": {
             "username": "nathansmith",
             "name": "Nathan Smith",
@@ -2225,10 +2227,10 @@
             "githubUrl": "https://github.com/nathansmith",
             "url": "http://sonspring.com"
         },
-        "score": 1523,
-        "refreshedAt": 1432583697661,
+        "score": 1588,
+        "refreshedAt": 1440234159822,
         "starsFormatted": "1.3K",
-        "forksFormatted": 130
+        "forksFormatted": 132
     },
     {
         "repo": "nathansmith/unsemantic",
@@ -2240,11 +2242,11 @@
         "homepage": "http://unsemantic.com",
         "url": "http://unsemantic.com",
         "createdAt": "2012-10-27T04:40:16Z",
-        "updatedAt": "2015-05-22T11:03:37Z",
+        "updatedAt": "2015-08-21T21:01:13Z",
         "pushedAt": "2015-04-21T15:02:50Z",
-        "stars": 1023,
-        "forks": 145,
-        "openIssues": 13,
+        "stars": 1048,
+        "forks": 151,
+        "openIssues": 14,
         "owner": {
             "username": "nathansmith",
             "name": "Nathan Smith",
@@ -2254,10 +2256,10 @@
             "githubUrl": "https://github.com/nathansmith",
             "url": "http://sonspring.com"
         },
-        "score": 1206,
-        "refreshedAt": 1432583697666,
+        "score": 1333,
+        "refreshedAt": 1440234159739,
         "starsFormatted": "1.0K",
-        "forksFormatted": 145
+        "forksFormatted": 151
     },
     {
         "repo": "necolas/normalize.css",
@@ -2269,11 +2271,11 @@
         "homepage": "http://necolas.github.io/normalize.css/",
         "url": "http://necolas.github.io/normalize.css/",
         "createdAt": "2011-05-04T10:20:25Z",
-        "updatedAt": "2015-05-25T19:56:52Z",
-        "pushedAt": "2015-05-19T05:10:35Z",
-        "stars": 16557,
-        "forks": 3471,
-        "openIssues": 29,
+        "updatedAt": "2015-08-22T05:35:06Z",
+        "pushedAt": "2015-08-16T01:29:38Z",
+        "stars": 17593,
+        "forks": 3693,
+        "openIssues": 36,
         "owner": {
             "username": "necolas",
             "name": "Nicolas Gallagher",
@@ -2283,10 +2285,10 @@
             "githubUrl": "https://github.com/necolas",
             "url": "http://nicolasgallagher.com"
         },
-        "score": 23499,
-        "refreshedAt": 1432583698651,
-        "starsFormatted": "16K",
-        "forksFormatted": "3.5K"
+        "score": 24904,
+        "refreshedAt": 1440234159735,
+        "starsFormatted": "17K",
+        "forksFormatted": "3.7K"
     },
     {
         "repo": "newaeonweb/responsiveboilerplate",
@@ -2298,10 +2300,10 @@
         "homepage": "http://www.responsiveboilerplate.com",
         "url": "http://www.responsiveboilerplate.com",
         "createdAt": "2012-12-31T14:47:53Z",
-        "updatedAt": "2015-05-18T15:55:49Z",
+        "updatedAt": "2015-08-19T06:45:02Z",
         "pushedAt": "2014-10-28T13:43:27Z",
-        "stars": 228,
-        "forks": 57,
+        "stars": 230,
+        "forks": 58,
         "openIssues": 2,
         "owner": {
             "username": "newaeonweb",
@@ -2312,10 +2314,10 @@
             "githubUrl": "https://github.com/newaeonweb",
             "url": "http://www.newaeonweb.com.br/"
         },
-        "score": 283,
-        "refreshedAt": 1432583697785,
-        "starsFormatted": 228,
-        "forksFormatted": 57
+        "score": 320,
+        "refreshedAt": 1440234159714,
+        "starsFormatted": 230,
+        "forksFormatted": 58
     },
     {
         "repo": "nico3333fr/ROCSSTI",
@@ -2327,10 +2329,10 @@
         "homepage": "http://rocssti.net/",
         "url": "http://rocssti.net/",
         "createdAt": "2012-11-09T20:38:38Z",
-        "updatedAt": "2015-05-07T07:53:22Z",
-        "pushedAt": "2015-05-07T07:53:22Z",
-        "stars": 31,
-        "forks": 5,
+        "updatedAt": "2015-08-11T17:58:25Z",
+        "pushedAt": "2015-08-20T12:45:24Z",
+        "stars": 32,
+        "forks": 6,
         "openIssues": 2,
         "owner": {
             "username": "nico3333fr",
@@ -2341,10 +2343,10 @@
             "githubUrl": "https://github.com/nico3333fr",
             "url": "http://www.nicolas-hoffmann.net/"
         },
-        "score": 22,
-        "refreshedAt": 1432583698640,
-        "starsFormatted": 31,
-        "forksFormatted": 5
+        "score": 32,
+        "refreshedAt": 1440234163158,
+        "starsFormatted": 32,
+        "forksFormatted": 6
     },
     {
         "repo": "olton/Metro-UI-CSS",
@@ -2356,11 +2358,11 @@
         "homepage": "http://metroui.org.ua/",
         "url": "http://metroui.org.ua/",
         "createdAt": "2012-03-09T13:54:28Z",
-        "updatedAt": "2015-05-25T15:34:34Z",
-        "pushedAt": "2015-05-24T17:29:41Z",
-        "stars": 4278,
-        "forks": 1610,
-        "openIssues": 5,
+        "updatedAt": "2015-08-21T19:59:44Z",
+        "pushedAt": "2015-08-18T16:31:11Z",
+        "stars": 4448,
+        "forks": 1677,
+        "openIssues": 7,
         "owner": {
             "username": "olton",
             "name": "Sergey Pimenov",
@@ -2370,10 +2372,10 @@
             "githubUrl": "https://github.com/olton",
             "url": "http://brainstorage.me/olton"
         },
-        "score": 7468,
-        "refreshedAt": 1432583697793,
-        "starsFormatted": "4.3K",
-        "forksFormatted": "1.6K"
+        "score": 7700,
+        "refreshedAt": 1440234159249,
+        "starsFormatted": "4.4K",
+        "forksFormatted": "1.7K"
     },
     {
         "repo": "paranoida/sass-mediaqueries",
@@ -2385,10 +2387,10 @@
         "homepage": "http://paranoida.github.com/sass-mediaqueries/",
         "url": "http://paranoida.github.com/sass-mediaqueries/",
         "createdAt": "2012-08-18T12:42:21Z",
-        "updatedAt": "2015-05-25T14:46:09Z",
-        "pushedAt": "2015-03-15T19:20:32Z",
-        "stars": 842,
-        "forks": 99,
+        "updatedAt": "2015-08-21T04:49:06Z",
+        "pushedAt": "2015-08-21T18:38:10Z",
+        "stars": 918,
+        "forks": 114,
         "openIssues": 4,
         "owner": {
             "username": "paranoida",
@@ -2399,10 +2401,10 @@
             "githubUrl": "https://github.com/paranoida",
             "url": "http://www.rafalbromirski.com"
         },
-        "score": 1034,
-        "refreshedAt": 1432583698654,
-        "starsFormatted": 842,
-        "forksFormatted": 99
+        "score": 1113,
+        "refreshedAt": 1440234164168,
+        "starsFormatted": 918,
+        "forksFormatted": 114
     },
     {
         "repo": "paranoida/simple-ui",
@@ -2414,9 +2416,9 @@
         "homepage": "http://paranoida.github.com/simple-ui/",
         "url": "http://paranoida.github.com/simple-ui/",
         "createdAt": "2013-01-14T20:12:23Z",
-        "updatedAt": "2015-03-10T04:30:50Z",
+        "updatedAt": "2015-06-15T13:52:02Z",
         "pushedAt": "2013-02-19T19:13:22Z",
-        "stars": 37,
+        "stars": 38,
         "forks": 3,
         "openIssues": 1,
         "owner": {
@@ -2428,9 +2430,9 @@
             "githubUrl": "https://github.com/paranoida",
             "url": "http://www.rafalbromirski.com"
         },
-        "score": 21,
-        "refreshedAt": 1432583698660,
-        "starsFormatted": 37,
+        "score": 22,
+        "refreshedAt": 1440234163680,
+        "starsFormatted": 38,
         "forksFormatted": 3
     },
     {
@@ -2443,10 +2445,10 @@
         "homepage": null,
         "url": "https://github.com/perryharlock/my-bootstrap",
         "createdAt": "2012-12-20T15:48:01Z",
-        "updatedAt": "2013-10-19T04:36:33Z",
+        "updatedAt": "2015-08-01T09:54:50Z",
         "pushedAt": "2013-08-02T10:55:25Z",
-        "stars": 6,
-        "forks": 1,
+        "stars": 7,
+        "forks": 2,
         "openIssues": 0,
         "owner": {
             "username": "perryharlock",
@@ -2457,10 +2459,10 @@
             "githubUrl": "https://github.com/perryharlock",
             "url": "http://www.phwebs.co.uk"
         },
-        "score": 4,
-        "refreshedAt": 1432583697678,
-        "starsFormatted": 6,
-        "forksFormatted": 1
+        "score": 5,
+        "refreshedAt": 1440234163170,
+        "starsFormatted": 7,
+        "forksFormatted": 2
     },
     {
         "repo": "raphaelgoetter/KNACSS",
@@ -2472,11 +2474,11 @@
         "homepage": "http://www.knacss.com",
         "url": "http://www.knacss.com",
         "createdAt": "2013-03-31T08:18:31Z",
-        "updatedAt": "2015-05-25T16:29:49Z",
-        "pushedAt": "2015-05-25T10:13:44Z",
-        "stars": 231,
-        "forks": 50,
-        "openIssues": 11,
+        "updatedAt": "2015-08-16T16:51:18Z",
+        "pushedAt": "2015-08-10T07:47:08Z",
+        "stars": 251,
+        "forks": 61,
+        "openIssues": 6,
         "owner": {
             "username": "raphaelgoetter",
             "name": "Raphael Goetter",
@@ -2486,10 +2488,10 @@
             "githubUrl": "https://github.com/raphaelgoetter",
             "url": "http://www.goetter.fr"
         },
-        "score": 330,
-        "refreshedAt": 1432583697789,
-        "starsFormatted": 231,
-        "forksFormatted": 50
+        "score": 322,
+        "refreshedAt": 1440234163706,
+        "starsFormatted": 251,
+        "forksFormatted": 61
     },
     {
         "repo": "richleland/pygments-css",
@@ -2501,11 +2503,11 @@
         "homepage": "http://richleland.github.io/pygments-css/",
         "url": "http://richleland.github.io/pygments-css/",
         "createdAt": "2009-05-27T04:33:45Z",
-        "updatedAt": "2015-05-24T19:36:09Z",
-        "pushedAt": "2015-03-19T00:00:23Z",
-        "stars": 496,
-        "forks": 173,
-        "openIssues": 1,
+        "updatedAt": "2015-08-20T17:51:58Z",
+        "pushedAt": "2015-06-17T11:00:53Z",
+        "stars": 544,
+        "forks": 183,
+        "openIssues": 3,
         "owner": {
             "username": "richleland",
             "name": "Richard Leland",
@@ -2515,15 +2517,15 @@
             "githubUrl": "https://github.com/richleland",
             "url": "http://mathematism.com/"
         },
-        "score": 821,
-        "refreshedAt": 1432583697690,
-        "starsFormatted": 496,
-        "forksFormatted": 173
+        "score": 874,
+        "refreshedAt": 1440234163150,
+        "starsFormatted": 544,
+        "forksFormatted": 183
     },
     {
         "repo": "ride-css/ride-css",
         "submittedAt": 1420802936053,
-        "refreshedAt": 1432585501765,
+        "refreshedAt": 1440234158634,
         "isValid": true,
         "name": "ride-css",
         "description": "A stylus mixins library for a faster css development.",
@@ -2531,23 +2533,23 @@
         "homepage": "http://ridecss.com",
         "url": "http://ridecss.com",
         "createdAt": "2014-08-06T18:01:57Z",
-        "updatedAt": "2015-05-11T17:23:31Z",
-        "pushedAt": "2015-05-17T12:31:38Z",
-        "stars": 4,
-        "starsFormatted": 4,
-        "forks": 0,
-        "forksFormatted": 0,
+        "updatedAt": "2015-08-21T19:08:16Z",
+        "pushedAt": "2015-08-09T21:53:29Z",
+        "stars": 7,
+        "starsFormatted": 7,
+        "forks": 1,
+        "forksFormatted": 1,
         "openIssues": 0,
         "owner": {
             "username": "ride-css",
-            "name": "",
+            "name": null,
             "avatarUrl": "https://avatars.githubusercontent.com/u/8377104?v=3",
             "gravatarId": "",
             "homepage": null,
             "githubUrl": "https://github.com/ride-css",
             "url": "https://github.com/ride-css"
         },
-        "score": 2
+        "score": 8
     },
     {
         "repo": "rkrupinski/lamegrid",
@@ -2574,7 +2576,7 @@
             "url": "https://github.com/rkrupinski"
         },
         "score": 0,
-        "refreshedAt": 1432583697680,
+        "refreshedAt": 1440234163698,
         "starsFormatted": 1,
         "forksFormatted": 0
     },
@@ -2603,7 +2605,7 @@
             "url": "http://robert-deluca.com"
         },
         "score": 32,
-        "refreshedAt": 1432583697664,
+        "refreshedAt": 1440234163696,
         "starsFormatted": 49,
         "forksFormatted": 8
     },
@@ -2617,10 +2619,10 @@
         "homepage": "http://piira.se/projects/ingrid",
         "url": "http://piira.se/projects/ingrid",
         "createdAt": "2012-02-08T14:45:27Z",
-        "updatedAt": "2015-05-23T19:17:54Z",
+        "updatedAt": "2015-07-02T19:07:38Z",
         "pushedAt": "2013-10-24T18:19:00Z",
         "stars": 416,
-        "forks": 43,
+        "forks": 44,
         "openIssues": 2,
         "owner": {
             "username": "robertpiira",
@@ -2628,12 +2630,13 @@
             "gravatarId": "",
             "githubUrl": "https://github.com/robertpiira",
             "url": "https://github.com/robertpiira",
-            "homepage": null
+            "homepage": null,
+            "name": null
         },
-        "score": 477,
-        "refreshedAt": 1432583698648,
+        "score": 252,
+        "refreshedAt": 1440234162795,
         "starsFormatted": 416,
-        "forksFormatted": 43
+        "forksFormatted": 44
     },
     {
         "repo": "rowanmanning/catchup",
@@ -2660,7 +2663,7 @@
             "url": "http://rowanmanning.com/"
         },
         "score": 1,
-        "refreshedAt": 1432583697654,
+        "refreshedAt": 1440234163671,
         "starsFormatted": 1,
         "forksFormatted": 1
     },
@@ -2674,11 +2677,11 @@
         "homepage": "http://cssdb.co/",
         "url": "http://cssdb.co/",
         "createdAt": "2013-03-18T22:43:41Z",
-        "updatedAt": "2015-05-20T04:37:42Z",
-        "pushedAt": "2015-04-20T17:34:56Z",
-        "stars": 29,
-        "forks": 3,
-        "openIssues": 20,
+        "updatedAt": "2015-08-01T13:33:20Z",
+        "pushedAt": "2015-08-22T08:57:51Z",
+        "stars": 31,
+        "forks": 5,
+        "openIssues": 2,
         "owner": {
             "username": "rowanmanning",
             "name": "Rowan Manning",
@@ -2688,10 +2691,10 @@
             "githubUrl": "https://github.com/rowanmanning",
             "url": "http://rowanmanning.com/"
         },
-        "score": 30,
-        "refreshedAt": 1432583697673,
-        "starsFormatted": 29,
-        "forksFormatted": 3
+        "score": 20,
+        "refreshedAt": 1440234160439,
+        "starsFormatted": 31,
+        "forksFormatted": 5
     },
     {
         "repo": "rowanmanning/frag",
@@ -2718,7 +2721,7 @@
             "url": "http://rowanmanning.com/"
         },
         "score": 16,
-        "refreshedAt": 1432583697778,
+        "refreshedAt": 1440234163665,
         "starsFormatted": 26,
         "forksFormatted": 3
     },
@@ -2732,9 +2735,9 @@
         "homepage": "http://pigeoncss.com/",
         "url": "http://pigeoncss.com/",
         "createdAt": "2012-07-23T20:55:30Z",
-        "updatedAt": "2015-05-12T17:29:52Z",
+        "updatedAt": "2015-06-20T03:19:59Z",
         "pushedAt": "2014-02-10T21:34:39Z",
-        "stars": 150,
+        "stars": 149,
         "forks": 7,
         "openIssues": 1,
         "owner": {
@@ -2746,9 +2749,9 @@
             "githubUrl": "https://github.com/rowanmanning",
             "url": "http://rowanmanning.com/"
         },
-        "score": 112,
-        "refreshedAt": 1432583698695,
-        "starsFormatted": 150,
+        "score": 81,
+        "refreshedAt": 1440234163139,
+        "starsFormatted": 149,
         "forksFormatted": 7
     },
     {
@@ -2776,7 +2779,7 @@
             "url": "http://rowanmanning.com/"
         },
         "score": 1,
-        "refreshedAt": 1432583697740,
+        "refreshedAt": 1440234162617,
         "starsFormatted": 2,
         "forksFormatted": 0
     },
@@ -2790,11 +2793,11 @@
         "homepage": "http://ink.sapo.pt",
         "url": "http://ink.sapo.pt",
         "createdAt": "2011-11-16T13:52:23Z",
-        "updatedAt": "2015-05-25T11:01:02Z",
-        "pushedAt": "2015-05-25T19:55:14Z",
-        "stars": 1281,
-        "forks": 227,
-        "openIssues": 2,
+        "updatedAt": "2015-08-22T07:07:24Z",
+        "pushedAt": "2015-08-20T16:47:55Z",
+        "stars": 1315,
+        "forks": 228,
+        "openIssues": 4,
         "owner": {
             "username": "sapo",
             "name": "SAPO",
@@ -2804,15 +2807,15 @@
             "githubUrl": "https://github.com/sapo",
             "url": "http://oss.sapo.pt"
         },
-        "score": 1719,
-        "refreshedAt": 1432583698667,
+        "score": 1769,
+        "refreshedAt": 1440234162018,
         "starsFormatted": "1.3K",
-        "forksFormatted": 227
+        "forksFormatted": 228
     },
     {
         "repo": "sebnitu/BaseWeb",
         "submittedAt": 1429551047626,
-        "refreshedAt": 1432585501761,
+        "refreshedAt": 1440234158636,
         "isValid": true,
         "name": "BaseWeb",
         "description": "A fresh front-end bootstrap framework.",
@@ -2820,12 +2823,12 @@
         "homepage": null,
         "url": "https://github.com/sebnitu/BaseWeb",
         "createdAt": "2012-02-24T00:38:07Z",
-        "updatedAt": "2015-05-05T01:01:34Z",
-        "pushedAt": "2015-05-14T17:38:40Z",
-        "stars": 14,
-        "starsFormatted": 14,
-        "forks": 3,
-        "forksFormatted": 3,
+        "updatedAt": "2015-07-10T19:42:46Z",
+        "pushedAt": "2015-08-14T00:28:07Z",
+        "stars": 15,
+        "starsFormatted": 15,
+        "forks": 4,
+        "forksFormatted": 4,
         "openIssues": 0,
         "owner": {
             "username": "sebnitu",
@@ -2836,7 +2839,7 @@
             "githubUrl": "https://github.com/sebnitu",
             "url": "http://sebnitu.com"
         },
-        "score": 10
+        "score": 11
     },
     {
         "repo": "seelva/seelva",
@@ -2848,7 +2851,7 @@
         "homepage": "http://seelva.com/",
         "url": "http://seelva.com/",
         "createdAt": "2012-04-27T06:21:54Z",
-        "updatedAt": "2015-04-08T22:42:35Z",
+        "updatedAt": "2015-06-21T10:31:56Z",
         "pushedAt": "2015-04-08T22:42:34Z",
         "stars": 2,
         "forks": 1,
@@ -2863,7 +2866,7 @@
             "url": "http://seelva.com/"
         },
         "score": 2,
-        "refreshedAt": 1432583697780,
+        "refreshedAt": 1440234162598,
         "starsFormatted": 2,
         "forksFormatted": 1
     },
@@ -2877,11 +2880,11 @@
         "homepage": "http://www.semantic-ui.com",
         "url": "http://www.semantic-ui.com",
         "createdAt": "2013-04-08T23:32:04Z",
-        "updatedAt": "2015-05-25T15:54:50Z",
-        "pushedAt": "2015-05-25T12:16:42Z",
-        "stars": 17346,
-        "forks": 1882,
-        "openIssues": 188,
+        "updatedAt": "2015-08-22T08:32:47Z",
+        "pushedAt": "2015-08-22T04:49:54Z",
+        "stars": 19613,
+        "forks": 2181,
+        "openIssues": 248,
         "owner": {
             "username": "Semantic-Org",
             "name": "Semantic Org",
@@ -2891,10 +2894,10 @@
             "githubUrl": "https://github.com/Semantic-Org",
             "url": "http://www.semantic-ui.com"
         },
-        "score": 21025,
-        "refreshedAt": 1432583698661,
-        "starsFormatted": "17K",
-        "forksFormatted": "1.9K"
+        "score": 23975,
+        "refreshedAt": 1440234162793,
+        "starsFormatted": "19K",
+        "forksFormatted": "2.2K"
     },
     {
         "repo": "Snugug/toolkit",
@@ -2921,7 +2924,7 @@
             "url": "http://snugug.com"
         },
         "score": 7,
-        "refreshedAt": 1432585501776,
+        "refreshedAt": 1440234163278,
         "starsFormatted": 10,
         "forksFormatted": 2
     },
@@ -2935,11 +2938,11 @@
         "homepage": null,
         "url": "https://github.com/soyjavi/tuktuk",
         "createdAt": "2012-11-30T08:37:15Z",
-        "updatedAt": "2015-05-12T03:44:06Z",
-        "pushedAt": "2014-09-22T13:49:14Z",
+        "updatedAt": "2015-08-15T09:29:02Z",
+        "pushedAt": "2015-07-06T18:25:18Z",
         "stars": 564,
         "forks": 129,
-        "openIssues": 10,
+        "openIssues": 11,
         "owner": {
             "username": "soyjavi",
             "name": "Javi Jiménez",
@@ -2949,8 +2952,8 @@
             "githubUrl": "https://github.com/soyjavi",
             "url": "http://soyjavi.com"
         },
-        "score": 552,
-        "refreshedAt": 1432583698663,
+        "score": 684,
+        "refreshedAt": 1440234159737,
         "starsFormatted": 564,
         "forksFormatted": 129
     },
@@ -2964,10 +2967,10 @@
         "homepage": null,
         "url": "https://github.com/srsgores/sass-boilerplate",
         "createdAt": "2013-01-04T09:00:05Z",
-        "updatedAt": "2015-04-28T14:12:55Z",
-        "pushedAt": "2014-05-31T20:38:12Z",
-        "stars": 32,
-        "forks": 4,
+        "updatedAt": "2015-08-06T15:03:44Z",
+        "pushedAt": "2015-05-29T23:14:21Z",
+        "stars": 35,
+        "forks": 5,
         "openIssues": 1,
         "owner": {
             "username": "srsgores",
@@ -2978,10 +2981,10 @@
             "githubUrl": "https://github.com/srsgores",
             "url": "http://seangoresht.com/"
         },
-        "score": 20,
-        "refreshedAt": 1432583697675,
-        "starsFormatted": 32,
-        "forksFormatted": 4
+        "score": 28,
+        "refreshedAt": 1440234162615,
+        "starsFormatted": 35,
+        "forksFormatted": 5
     },
     {
         "repo": "stubbornella/oocss",
@@ -2993,10 +2996,10 @@
         "homepage": "http://stubbornella.org/",
         "url": "http://stubbornella.org/",
         "createdAt": "2009-01-28T02:13:19Z",
-        "updatedAt": "2015-05-25T14:07:17Z",
+        "updatedAt": "2015-08-22T01:41:43Z",
         "pushedAt": "2013-09-26T13:10:02Z",
-        "stars": 4621,
-        "forks": 631,
+        "stars": 4745,
+        "forks": 644,
         "openIssues": 78,
         "owner": {
             "username": "stubbornella",
@@ -3007,10 +3010,10 @@
             "githubUrl": "https://github.com/stubbornella",
             "url": "http://stubbornella.org/content/"
         },
-        "score": 5853,
-        "refreshedAt": 1432583697773,
-        "starsFormatted": "4.6K",
-        "forksFormatted": 631
+        "score": 5990,
+        "refreshedAt": 1440234163076,
+        "starsFormatted": "4.7K",
+        "forksFormatted": 644
     },
     {
         "repo": "sturobson/Sassifaction",
@@ -3022,9 +3025,9 @@
         "homepage": null,
         "url": "https://github.com/sturobson/Sassifaction",
         "createdAt": "2013-10-18T08:51:02Z",
-        "updatedAt": "2015-05-06T00:03:36Z",
+        "updatedAt": "2015-08-19T08:49:26Z",
         "pushedAt": "2014-08-28T20:50:49Z",
-        "stars": 165,
+        "stars": 166,
         "forks": 14,
         "openIssues": 6,
         "owner": {
@@ -3036,9 +3039,9 @@
             "githubUrl": "https://github.com/sturobson",
             "url": "http://www.alwaystwisted.com"
         },
-        "score": 101,
-        "refreshedAt": 1432583698665,
-        "starsFormatted": 165,
+        "score": 180,
+        "refreshedAt": 1440234159301,
+        "starsFormatted": 166,
         "forksFormatted": 14
     },
     {
@@ -3051,24 +3054,24 @@
         "homepage": "http://suitcss.github.io/",
         "url": "http://suitcss.github.io/",
         "createdAt": "2011-10-19T21:38:00Z",
-        "updatedAt": "2015-05-25T13:22:06Z",
-        "pushedAt": "2015-05-06T18:31:14Z",
-        "stars": 1945,
-        "forks": 104,
-        "openIssues": 4,
+        "updatedAt": "2015-08-22T08:15:02Z",
+        "pushedAt": "2015-06-13T14:19:21Z",
+        "stars": 2144,
+        "forks": 111,
+        "openIssues": 6,
         "owner": {
             "username": "suitcss",
-            "name": "",
+            "name": null,
             "avatarUrl": "https://avatars.githubusercontent.com/u/4564613?v=3",
             "gravatarId": "",
             "homepage": null,
             "githubUrl": "https://github.com/suitcss",
             "url": "https://github.com/suitcss"
         },
-        "score": 2140,
-        "refreshedAt": 1432583698684,
-        "starsFormatted": "1.9K",
-        "forksFormatted": 104
+        "score": 2366,
+        "refreshedAt": 1440234162582,
+        "starsFormatted": "2.1K",
+        "forksFormatted": 111
     },
     {
         "repo": "thomaspark/bootswatch",
@@ -3080,11 +3083,11 @@
         "homepage": "http://bootswatch.com",
         "url": "http://bootswatch.com",
         "createdAt": "2012-02-07T04:31:56Z",
-        "updatedAt": "2015-05-25T18:10:47Z",
-        "pushedAt": "2015-05-23T01:44:42Z",
-        "stars": 5945,
-        "forks": 1512,
-        "openIssues": 11,
+        "updatedAt": "2015-08-22T02:25:24Z",
+        "pushedAt": "2015-08-10T22:57:59Z",
+        "stars": 6354,
+        "forks": 1675,
+        "openIssues": 14,
         "owner": {
             "username": "thomaspark",
             "name": "Thomas Park",
@@ -3094,10 +3097,10 @@
             "githubUrl": "https://github.com/thomaspark",
             "url": "http://thomaspark.co"
         },
-        "score": 8960,
-        "refreshedAt": 1432583698688,
-        "starsFormatted": "5.9K",
-        "forksFormatted": "1.5K"
+        "score": 9645,
+        "refreshedAt": 1440234162603,
+        "starsFormatted": "6.4K",
+        "forksFormatted": "1.7K"
     },
     {
         "repo": "thoughtbot/bourbon",
@@ -3109,11 +3112,11 @@
         "homepage": "http://bourbon.io",
         "url": "http://bourbon.io",
         "createdAt": "2011-04-23T15:41:20Z",
-        "updatedAt": "2015-05-25T17:25:38Z",
-        "pushedAt": "2015-05-22T19:37:08Z",
-        "stars": 5845,
-        "forks": 631,
-        "openIssues": 9,
+        "updatedAt": "2015-08-22T02:56:56Z",
+        "pushedAt": "2015-08-21T19:11:08Z",
+        "stars": 6191,
+        "forks": 673,
+        "openIssues": 6,
         "owner": {
             "username": "thoughtbot",
             "name": "thoughtbot, inc.",
@@ -3123,10 +3126,10 @@
             "githubUrl": "https://github.com/thoughtbot",
             "url": "http://robots.thoughtbot.com"
         },
-        "score": 7092,
-        "refreshedAt": 1432583697747,
-        "starsFormatted": "5.8K",
-        "forksFormatted": 631
+        "score": 7491,
+        "refreshedAt": 1440234162066,
+        "starsFormatted": "6.2K",
+        "forksFormatted": 673
     },
     {
         "repo": "tiko2015/snippets",
@@ -3153,7 +3156,7 @@
             "url": "https://github.com/tiko2015"
         },
         "score": 2,
-        "refreshedAt": 1432583697655,
+        "refreshedAt": 1440234162059,
         "starsFormatted": 4,
         "forksFormatted": 0
     },
@@ -3182,14 +3185,14 @@
             "url": "http://www.tinywall.com"
         },
         "score": 14,
-        "refreshedAt": 1432583697752,
+        "refreshedAt": 1440234159280,
         "starsFormatted": 18,
         "forksFormatted": 5
     },
     {
         "repo": "tj/nib",
         "submittedAt": 1412629200000,
-        "refreshedAt": 1432583892161,
+        "refreshedAt": 1440234162054,
         "isValid": true,
         "name": "nib",
         "description": "Stylus mixins, utilities, components, and gradient image generation",
@@ -3197,13 +3200,13 @@
         "homepage": "http://tj.github.com/nib/",
         "url": "http://tj.github.com/nib/",
         "createdAt": "2011-04-05T01:42:41Z",
-        "updatedAt": "2015-05-23T18:57:44Z",
-        "pushedAt": "2015-05-20T08:29:33Z",
-        "stars": 1454,
+        "updatedAt": "2015-08-21T12:35:41Z",
+        "pushedAt": "2015-08-19T19:20:44Z",
+        "stars": 1518,
         "starsFormatted": "1.5K",
-        "forks": 223,
-        "forksFormatted": 223,
-        "openIssues": 92,
+        "forks": 234,
+        "forksFormatted": 234,
+        "openIssues": 95,
         "owner": {
             "username": "tj",
             "name": "TJ Holowaychuk",
@@ -3213,7 +3216,7 @@
             "githubUrl": "https://github.com/tj",
             "url": "http://tjholowaychuk.com"
         },
-        "score": 1806
+        "score": 1946
     },
     {
         "repo": "topcoat/topcoat",
@@ -3225,11 +3228,11 @@
         "homepage": "http://topcoat.io",
         "url": "http://topcoat.io",
         "createdAt": "2012-11-01T15:12:16Z",
-        "updatedAt": "2015-05-25T19:35:40Z",
-        "pushedAt": "2015-04-01T21:09:09Z",
-        "stars": 4067,
-        "forks": 422,
-        "openIssues": 102,
+        "updatedAt": "2015-08-17T06:06:00Z",
+        "pushedAt": "2015-06-18T00:14:22Z",
+        "stars": 4124,
+        "forks": 429,
+        "openIssues": 103,
         "owner": {
             "username": "topcoat",
             "name": "Topcoat",
@@ -3239,15 +3242,15 @@
             "githubUrl": "https://github.com/topcoat",
             "url": "http://topcoat.io"
         },
-        "score": 4911,
-        "refreshedAt": 1432583697829,
+        "score": 4374,
+        "refreshedAt": 1440234162051,
         "starsFormatted": "4.1K",
-        "forksFormatted": 422
+        "forksFormatted": 429
     },
     {
         "repo": "TryKickoff/kickoff",
         "submittedAt": 1412629200000,
-        "refreshedAt": 1432583892152,
+        "refreshedAt": 1440234160927,
         "isValid": true,
         "name": "kickoff",
         "description": "A lightweight front-end framework  for creating scalable, responsive sites",
@@ -3255,23 +3258,23 @@
         "homepage": "http://trykickoff.github.io/",
         "url": "http://trykickoff.github.io/",
         "createdAt": "2012-04-05T15:27:47Z",
-        "updatedAt": "2015-05-20T09:54:14Z",
-        "pushedAt": "2015-05-22T08:52:18Z",
-        "stars": 263,
-        "starsFormatted": 263,
-        "forks": 43,
-        "forksFormatted": 43,
-        "openIssues": 2,
+        "updatedAt": "2015-08-16T06:39:45Z",
+        "pushedAt": "2015-08-16T22:59:21Z",
+        "stars": 288,
+        "starsFormatted": 288,
+        "forks": 47,
+        "forksFormatted": 47,
+        "openIssues": 5,
         "owner": {
             "username": "TryKickoff",
-            "name": "",
+            "name": null,
             "avatarUrl": "https://avatars.githubusercontent.com/u/12132188?v=3",
             "gravatarId": "",
             "homepage": "http://trykickoff.github.io",
             "githubUrl": "https://github.com/TryKickoff",
             "url": "http://trykickoff.github.io"
         },
-        "score": 303
+        "score": 326
     },
     {
         "repo": "tsi/Salsa",
@@ -3286,7 +3289,7 @@
         "updatedAt": "2015-03-12T17:59:19Z",
         "pushedAt": "2013-12-27T11:51:00Z",
         "stars": 46,
-        "forks": 4,
+        "forks": 3,
         "openIssues": 1,
         "owner": {
             "username": "tsi",
@@ -3297,10 +3300,10 @@
             "githubUrl": "https://github.com/tsi",
             "url": "http://shlidor.me/pf"
         },
-        "score": 27,
-        "refreshedAt": 1432583698686,
+        "score": 26,
+        "refreshedAt": 1440234160937,
         "starsFormatted": 46,
-        "forksFormatted": 4
+        "forksFormatted": 3
     },
     {
         "repo": "twbs/bootstrap",
@@ -3312,11 +3315,11 @@
         "homepage": "http://getbootstrap.com",
         "url": "http://getbootstrap.com",
         "createdAt": "2011-07-29T21:19:00Z",
-        "updatedAt": "2015-05-25T18:27:26Z",
-        "pushedAt": "2015-05-25T17:12:05Z",
-        "stars": 81484,
-        "forks": 32359,
-        "openIssues": 71,
+        "updatedAt": "2015-08-22T08:59:10Z",
+        "pushedAt": "2015-08-22T01:02:44Z",
+        "stars": 85097,
+        "forks": 34849,
+        "openIssues": 195,
         "owner": {
             "username": "twbs",
             "name": "Bootstrap",
@@ -3326,10 +3329,10 @@
             "githubUrl": "https://github.com/twbs",
             "url": "http://getbootstrap.com"
         },
-        "score": 146055,
-        "refreshedAt": 1432583698658,
-        "starsFormatted": "81K",
-        "forksFormatted": "32K"
+        "score": 154795,
+        "refreshedAt": 1440234159894,
+        "starsFormatted": "85K",
+        "forksFormatted": "34K"
     },
     {
         "repo": "twbs/ratchet",
@@ -3341,11 +3344,11 @@
         "homepage": "http://goratchet.com",
         "url": "http://goratchet.com",
         "createdAt": "2012-08-17T05:41:57Z",
-        "updatedAt": "2015-05-25T13:14:25Z",
-        "pushedAt": "2015-05-24T16:12:51Z",
-        "stars": 11307,
-        "forks": 1241,
-        "openIssues": 190,
+        "updatedAt": "2015-08-22T06:28:14Z",
+        "pushedAt": "2015-08-20T15:08:45Z",
+        "stars": 11824,
+        "forks": 1285,
+        "openIssues": 206,
         "owner": {
             "username": "twbs",
             "name": "Bootstrap",
@@ -3355,10 +3358,10 @@
             "githubUrl": "https://github.com/twbs",
             "url": "http://getbootstrap.com"
         },
-        "score": 13706,
-        "refreshedAt": 1432583697742,
+        "score": 14365,
+        "refreshedAt": 1440234160934,
         "starsFormatted": "11K",
-        "forksFormatted": "1.2K"
+        "forksFormatted": "1.3K"
     },
     {
         "repo": "tylertate/semantic.gs",
@@ -3370,11 +3373,11 @@
         "homepage": "http://Semantic.gs",
         "url": "http://Semantic.gs",
         "createdAt": "2011-06-16T08:54:44Z",
-        "updatedAt": "2015-05-21T09:19:02Z",
-        "pushedAt": "2015-03-28T05:01:43Z",
-        "stars": 1646,
-        "forks": 293,
-        "openIssues": 50,
+        "updatedAt": "2015-08-18T15:44:30Z",
+        "pushedAt": "2015-07-09T08:46:52Z",
+        "stars": 1680,
+        "forks": 298,
+        "openIssues": 51,
         "owner": {
             "username": "tylertate",
             "name": "Tyler Tate",
@@ -3384,10 +3387,10 @@
             "githubUrl": "https://github.com/tylertate",
             "url": "http://www.tylertate.com/"
         },
-        "score": 1995,
-        "refreshedAt": 1432583698653,
-        "starsFormatted": "1.6K",
-        "forksFormatted": 293
+        "score": 2073,
+        "refreshedAt": 1440234160923,
+        "starsFormatted": "1.7K",
+        "forksFormatted": 298
     },
     {
         "repo": "typeplate/starter-kit",
@@ -3399,11 +3402,11 @@
         "homepage": "http://typeplate.com",
         "url": "http://typeplate.com",
         "createdAt": "2013-02-25T20:27:22Z",
-        "updatedAt": "2015-05-18T16:20:51Z",
+        "updatedAt": "2015-08-20T15:41:22Z",
         "pushedAt": "2015-03-08T20:11:40Z",
-        "stars": 348,
-        "forks": 44,
-        "openIssues": 11,
+        "stars": 371,
+        "forks": 54,
+        "openIssues": 13,
         "owner": {
             "username": "typeplate",
             "name": "Typeplate",
@@ -3413,10 +3416,10 @@
             "githubUrl": "https://github.com/typeplate",
             "url": "http://typeplate.com"
         },
-        "score": 361,
-        "refreshedAt": 1432583697671,
-        "starsFormatted": 348,
-        "forksFormatted": 44
+        "score": 459,
+        "refreshedAt": 1440234160913,
+        "starsFormatted": 371,
+        "forksFormatted": 54
     },
     {
         "repo": "uikit/uikit",
@@ -3428,23 +3431,24 @@
         "homepage": "http://getuikit.com",
         "url": "http://getuikit.com",
         "createdAt": "2013-07-18T16:00:26Z",
-        "updatedAt": "2015-05-25T18:45:31Z",
-        "pushedAt": "2015-05-22T12:35:19Z",
-        "stars": 4861,
-        "forks": 928,
-        "openIssues": 101,
+        "updatedAt": "2015-08-22T07:59:43Z",
+        "pushedAt": "2015-08-21T23:16:45Z",
+        "stars": 5377,
+        "forks": 1051,
+        "openIssues": 146,
         "owner": {
             "username": "uikit",
             "avatarUrl": "https://avatars.githubusercontent.com/u/4173184?v=3",
             "gravatarId": "",
             "githubUrl": "https://github.com/uikit",
             "url": "https://github.com/uikit",
-            "homepage": null
+            "homepage": null,
+            "name": null
         },
-        "score": 6710,
-        "refreshedAt": 1432583697782,
-        "starsFormatted": "4.9K",
-        "forksFormatted": 928
+        "score": 7471,
+        "refreshedAt": 1440234159746,
+        "starsFormatted": "5.4K",
+        "forksFormatted": "1.1K"
     },
     {
         "repo": "voronianski/dookie-css",
@@ -3456,9 +3460,9 @@
         "homepage": "http://labs.voronianski.com/dookie-css/",
         "url": "http://labs.voronianski.com/dookie-css/",
         "createdAt": "2013-03-24T19:38:34Z",
-        "updatedAt": "2015-03-08T08:03:56Z",
+        "updatedAt": "2015-07-13T04:23:33Z",
         "pushedAt": "2014-08-06T20:53:07Z",
-        "stars": 107,
+        "stars": 112,
         "forks": 8,
         "openIssues": 0,
         "owner": {
@@ -3470,9 +3474,9 @@
             "githubUrl": "https://github.com/voronianski",
             "url": "http://pixelhunter.me"
         },
-        "score": 61,
-        "refreshedAt": 1432583698668,
-        "starsFormatted": 107,
+        "score": 64,
+        "refreshedAt": 1440234159270,
+        "starsFormatted": 112,
         "forksFormatted": 8
     },
     {
@@ -3485,10 +3489,10 @@
         "homepage": "https://www.weepower.com",
         "url": "https://www.weepower.com",
         "createdAt": "2013-05-04T04:36:50Z",
-        "updatedAt": "2015-05-25T17:17:47Z",
-        "pushedAt": "2015-05-21T17:13:45Z",
-        "stars": 93,
-        "forks": 3,
+        "updatedAt": "2015-08-18T01:22:25Z",
+        "pushedAt": "2015-08-20T13:08:16Z",
+        "stars": 196,
+        "forks": 7,
         "openIssues": 0,
         "owner": {
             "username": "weepower",
@@ -3499,10 +3503,10 @@
             "githubUrl": "https://github.com/weepower",
             "url": "https://www.weepower.com"
         },
-        "score": 98,
-        "refreshedAt": 1432583698669,
-        "starsFormatted": 93,
-        "forksFormatted": 3
+        "score": 188,
+        "refreshedAt": 1440234160906,
+        "starsFormatted": 196,
+        "forksFormatted": 7
     },
     {
         "repo": "Wolfr/clank",
@@ -3514,10 +3518,10 @@
         "homepage": "http://getclank.com/",
         "url": "http://getclank.com/",
         "createdAt": "2013-05-20T18:04:19Z",
-        "updatedAt": "2015-05-18T17:01:20Z",
+        "updatedAt": "2015-08-20T21:45:13Z",
         "pushedAt": "2013-12-21T14:40:18Z",
-        "stars": 938,
-        "forks": 93,
+        "stars": 936,
+        "forks": 95,
         "openIssues": 21,
         "owner": {
             "username": "Wolfr",
@@ -3528,10 +3532,10 @@
             "githubUrl": "https://github.com/Wolfr",
             "url": "http://mono.company"
         },
-        "score": 931,
-        "refreshedAt": 1432583697776,
-        "starsFormatted": 938,
-        "forksFormatted": 93
+        "score": 1086,
+        "refreshedAt": 1440234160926,
+        "starsFormatted": 936,
+        "forksFormatted": 95
     },
     {
         "repo": "yahoo/debugCSS",
@@ -3543,10 +3547,10 @@
         "homepage": "http://yahoo.github.com/debugCSS/",
         "url": "http://yahoo.github.com/debugCSS/",
         "createdAt": "2011-10-03T19:03:49Z",
-        "updatedAt": "2015-05-23T07:21:42Z",
+        "updatedAt": "2015-08-13T03:34:41Z",
         "pushedAt": "2015-05-15T22:34:24Z",
-        "stars": 273,
-        "forks": 16,
+        "stars": 571,
+        "forks": 27,
         "openIssues": 0,
         "owner": {
             "username": "yahoo",
@@ -3557,10 +3561,10 @@
             "githubUrl": "https://github.com/yahoo",
             "url": "http://developer.yahoo.com/"
         },
-        "score": 286,
-        "refreshedAt": 1432583698825,
-        "starsFormatted": 273,
-        "forksFormatted": 16
+        "score": 486,
+        "refreshedAt": 1440234161204,
+        "starsFormatted": 571,
+        "forksFormatted": 27
     },
     {
         "repo": "yahoo/pure",
@@ -3572,11 +3576,11 @@
         "homepage": "http://purecss.io/",
         "url": "http://purecss.io/",
         "createdAt": "2013-04-22T16:16:39Z",
-        "updatedAt": "2015-05-25T17:14:24Z",
-        "pushedAt": "2015-05-22T09:31:35Z",
-        "stars": 11381,
-        "forks": 1426,
-        "openIssues": 69,
+        "updatedAt": "2015-08-22T06:39:08Z",
+        "pushedAt": "2015-08-05T01:17:16Z",
+        "stars": 12102,
+        "forks": 1501,
+        "openIssues": 81,
         "owner": {
             "username": "yahoo",
             "name": "Yahoo Inc.",
@@ -3586,10 +3590,10 @@
             "githubUrl": "https://github.com/yahoo",
             "url": "http://developer.yahoo.com/"
         },
-        "score": 14204,
-        "refreshedAt": 1432583698631,
-        "starsFormatted": "11K",
-        "forksFormatted": "1.4K"
+        "score": 15073,
+        "refreshedAt": 1440234160894,
+        "starsFormatted": "12K",
+        "forksFormatted": "1.5K"
     },
     {
         "repo": "yairEO/fancyInput",
@@ -3601,11 +3605,11 @@
         "homepage": null,
         "url": "https://github.com/yairEO/fancyInput",
         "createdAt": "2013-02-19T18:10:33Z",
-        "updatedAt": "2015-05-23T00:40:50Z",
-        "pushedAt": "2014-03-31T09:23:39Z",
-        "stars": 1781,
-        "forks": 286,
-        "openIssues": 18,
+        "updatedAt": "2015-08-21T13:17:31Z",
+        "pushedAt": "2015-06-12T01:22:01Z",
+        "stars": 1805,
+        "forks": 293,
+        "openIssues": 19,
         "owner": {
             "username": "yairEO",
             "name": "vsync",
@@ -3615,10 +3619,10 @@
             "githubUrl": "https://github.com/yairEO",
             "url": "http://dropthebit.com"
         },
-        "score": 2195,
-        "refreshedAt": 1432583697745,
+        "score": 2345,
+        "refreshedAt": 1440234159851,
         "starsFormatted": "1.8K",
-        "forksFormatted": 286
+        "forksFormatted": 293
     },
     {
         "repo": "yui/yui3",
@@ -3630,11 +3634,11 @@
         "homepage": "http://yuilibrary.com/",
         "url": "http://yuilibrary.com/",
         "createdAt": "2008-12-05T19:12:24Z",
-        "updatedAt": "2015-05-25T12:18:03Z",
-        "pushedAt": "2014-10-22T00:36:07Z",
-        "stars": 2978,
-        "forks": 1012,
-        "openIssues": 397,
+        "updatedAt": "2015-08-20T19:59:41Z",
+        "pushedAt": "2015-06-11T00:54:22Z",
+        "stars": 3073,
+        "forks": 1055,
+        "openIssues": 396,
         "owner": {
             "username": "yui",
             "name": "YUI Library",
@@ -3644,10 +3648,10 @@
             "githubUrl": "https://github.com/yui",
             "url": "http://yuilibrary.com/"
         },
-        "score": 4966,
-        "refreshedAt": 1432583698692,
-        "starsFormatted": "3.0K",
-        "forksFormatted": "1.0K"
+        "score": 4991,
+        "refreshedAt": 1440234160888,
+        "starsFormatted": "3.1K",
+        "forksFormatted": "1.1K"
     },
     {
         "repo": "zmoazeni/csscss",
@@ -3659,11 +3663,11 @@
         "homepage": "http://zmoazeni.github.io/csscss/",
         "url": "http://zmoazeni.github.io/csscss/",
         "createdAt": "2013-03-01T23:17:25Z",
-        "updatedAt": "2015-05-23T21:03:08Z",
+        "updatedAt": "2015-08-20T22:09:47Z",
         "pushedAt": "2014-08-29T19:51:54Z",
-        "stars": 2805,
-        "forks": 140,
-        "openIssues": 11,
+        "stars": 2845,
+        "forks": 141,
+        "openIssues": 12,
         "owner": {
             "username": "zmoazeni",
             "name": "Zach Moazeni",
@@ -3673,10 +3677,10 @@
             "githubUrl": "https://github.com/zmoazeni",
             "url": "http://connectionrequired.com"
         },
-        "score": 2940,
-        "refreshedAt": 1432583697738,
+        "score": 3020,
+        "refreshedAt": 1440234160921,
         "starsFormatted": "2.8K",
-        "forksFormatted": 140
+        "forksFormatted": 141
     },
     {
         "repo": "zurb/foundation",
@@ -3688,11 +3692,11 @@
         "homepage": "http://foundation.zurb.com",
         "url": "http://foundation.zurb.com",
         "createdAt": "2011-10-13T23:05:42Z",
-        "updatedAt": "2015-05-25T14:46:09Z",
-        "pushedAt": "2015-05-25T14:59:57Z",
-        "stars": 20140,
-        "forks": 4313,
-        "openIssues": 80,
+        "updatedAt": "2015-08-22T07:43:50Z",
+        "pushedAt": "2015-08-21T19:50:59Z",
+        "stars": 20723,
+        "forks": 4418,
+        "openIssues": 176,
         "owner": {
             "username": "zurb",
             "name": "zurb",
@@ -3702,9 +3706,9 @@
             "githubUrl": "https://github.com/zurb",
             "url": "http://zurb.com"
         },
-        "score": 28622,
-        "refreshedAt": 1432583697791,
+        "score": 29529,
+        "refreshedAt": 1440234159757,
         "starsFormatted": "20K",
-        "forksFormatted": "4.3K"
+        "forksFormatted": "4.4K"
     }
 ]
