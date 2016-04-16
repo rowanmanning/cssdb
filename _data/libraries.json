@@ -957,35 +957,6 @@
         "refreshedAt": 1460808455398
     },
     {
-        "repo": "dmitryf/elements",
-        "submittedAt": 1412629200000,
-        "isValid": false,
-        "name": "elements",
-        "description": "Useful LESS mixins",
-        "repoUrl": "https://github.com/dmitryf/elements",
-        "homepage": "http://lesselements.com",
-        "url": "http://lesselements.com",
-        "createdAt": "2011-04-28T22:57:25Z",
-        "updatedAt": "2015-09-24T17:02:30Z",
-        "pushedAt": "2015-08-02T18:40:11Z",
-        "stars": 1395,
-        "forks": 408,
-        "openIssues": 53,
-        "owner": {
-            "username": "dmitryf",
-            "name": "Dmitry Fadeyev",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/42757?v=3",
-            "gravatarId": "",
-            "homepage": "http://www.usabilitypost.com",
-            "githubUrl": "https://github.com/dmitryf",
-            "url": "http://www.usabilitypost.com"
-        },
-        "score": 1989,
-        "starsFormatted": "1.4K",
-        "forksFormatted": 408,
-        "refreshedAt": 1460808453988
-    },
-    {
         "repo": "Dogfalo/materialize",
         "submittedAt": 1432585995739,
         "refreshedAt": 1460808454628,
