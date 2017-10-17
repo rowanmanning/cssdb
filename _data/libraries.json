@@ -3886,35 +3886,6 @@
         "forksFormatted": 88
     },
     {
-        "repo": "yahoo/debugCSS",
-        "submittedAt": 1412629200000,
-        "isValid": false,
-        "name": "debugCSS",
-        "description": "CSS to highlight potentially malformed, invalid or questionable markup.",
-        "repoUrl": "https://github.com/yahoo/debugCSS",
-        "homepage": "http://yahoo.github.com/debugCSS/",
-        "url": "http://yahoo.github.com/debugCSS/",
-        "createdAt": "2011-10-03T19:03:49Z",
-        "updatedAt": "2016-04-09T15:17:33Z",
-        "pushedAt": "2015-10-13T22:31:52Z",
-        "stars": 630,
-        "forks": 28,
-        "openIssues": 0,
-        "owner": {
-            "username": "yahoo",
-            "name": "Yahoo Inc.",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/16574?v=3",
-            "gravatarId": "",
-            "homepage": "http://developer.yahoo.com/",
-            "githubUrl": "https://github.com/yahoo",
-            "url": "http://developer.yahoo.com/"
-        },
-        "score": 573,
-        "refreshedAt": 1508229096738,
-        "starsFormatted": 630,
-        "forksFormatted": 28
-    },
-    {
         "repo": "yahoo/pure",
         "submittedAt": 1412629200000,
         "isValid": true,
