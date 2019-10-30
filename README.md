@@ -33,7 +33,7 @@ License
 -------
 
 ![CC BY-NC 3.0](http://i.creativecommons.org/l/by-nc/3.0/88x31.png)  
-This source code (and design) is licensed under the [Creative Commons Attribution-NonCommercial 3.0 Unported][cc-by-nc] license.
+This source code(and design) is licensed under the [Creative Commons Attribution-NonCommercial 3.0 Unported][cc-by-nc] license.
 
 
 
