@@ -4,6 +4,8 @@ CSSDB
 
 This is the source code for http://cssdb.co/ – a curated collection of great CSS, Sass, LESS and Stylus libraries.
 
+**⚠️ NOTE: This project is no longer being maintained. If you're interested in taking over maintenance, please contact me.**
+
 
 Submitting
 ----------
